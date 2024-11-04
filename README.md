@@ -4,7 +4,7 @@ description: One stop shop for all your AI development needs
 
 # Overview
 
-Function Developer Platform (FDP) is a gateway that exposes the following API services to consumers.&#x20;
+Function Developer Platform is our premier gateway exposing the following services to consumers via gRPC and HTTP-JSON (OpenAI compatiable) APIs:
 
 * Chat Completion
 * Code Completion
