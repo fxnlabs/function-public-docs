@@ -1,4 +1,4 @@
-# Service Descriptions
+# Services
 
 ## Code Completion
 
