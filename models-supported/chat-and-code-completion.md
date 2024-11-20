@@ -15,6 +15,7 @@ Models supported:
 * [meta/llama-3.1-8b-instruct-awq](https://huggingface.co/meta/llama-3.1-8b-instruct-awq)
 * [meta/llama-3.1-8b-instruct-fp8](https://huggingface.co/meta/llama-3.1-8b-instruct-fp8)
 * [meta/llama-3.1-8b-instruct](https://huggingface.co/meta/llama-3.1-8b-instruct)
+* [meta/llama-3.1-70b-instruct](https://huggingface.co/meta-llama/Llama-3.1-70B-Instruct)
 * [thebloke/llamaguard-7b-awq](https://huggingface.co/thebloke/llamaguard-7b-awq)
 * [thebloke/mistral-7b-instruct-v0.1-awq](https://huggingface.co/thebloke/mistral-7b-instruct-v0.1-awq)
 * [mistral/mistral-7b-instruct-v0.1](https://huggingface.co/mistral/mistral-7b-instruct-v0.1)
