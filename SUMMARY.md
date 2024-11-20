@@ -8,7 +8,6 @@
   * [Python Example](developer-platform/first-party-library-support/python-example.md)
   * [Typescript & Node Backend Example](developer-platform/first-party-library-support/typescript-and-node-backend-example.md)
 * [OpenAI Compatible API](developer-platform/openai-compatible-api.md)
-* [Model Supported](developer-platform/model-supported.md)
 
 ## Models Supported
 
