@@ -6,4 +6,4 @@ description: Missing your preferred model? Reach out to us, contact@function.net
 
 Models supported:
 
-* [whisper](https://huggingface.co/openai/whisper)
+* [whisper](https://huggingface.co/openai/whisper-large-v3)
