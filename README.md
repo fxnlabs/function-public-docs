@@ -1,5 +1,5 @@
 ---
-description: One stop shop for all your AI development needs
+description: One stop shop all your AI development needs
 ---
 
 # Overview
