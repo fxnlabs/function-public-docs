@@ -1,5 +1,5 @@
 ---
-description: Missing your favorite language? Reach out to us!
+description: Missing your preferred model? Reach out to us, contact@function.network
 ---
 
 # Transcription

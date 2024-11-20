@@ -1,3 +1,7 @@
+---
+description: Missing your preferred model? Reach out to us, contact@function.network
+---
+
 # Text To Image
 
 _Missing your favorite language? Reach out to_ [_us_](mailto:contact@function.network)_!_Models supported:
