@@ -4,9 +4,9 @@ Function is backwards compatible with OpenAI (OAI), allowing you to seamlessly l
 
 The following API services are OAI compliant:
 
-* Chat Completion: `https://api-gateway.function.network/v1/chat/completions`
-* Embeddings: `https://api-gateway.function.network/v1/chat/completions`
-* Image Generation: `https://api-gateway.function.network/v1/images/generation`
+* Chat Completion: `https://api.function.network/v1/chat/completions`
+* Embeddings: `https://api.function.network/v1/chat/completions`
+* Image Generation: `https://api.function.network/v1/images/generation`
 
 ## Python Example
 
