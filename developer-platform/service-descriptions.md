@@ -1,6 +1,15 @@
 # Services
 
-## Code Completion
+### Chat Completion
+
+* **Description**: Enables conversational AI to engage in dynamic, human-like interactions across various platforms.  
+* **Use Cases**:  
+  * Customer support bots providing instant, contextual responses.  
+  * Personalized virtual assistants for scheduling, reminders, and task management.  
+  * Community engagement tools for real-time communication in social apps.  
+  * AI agents that can conduct natural, multi-turn conversations, assist in decision-making, and adapt to user intent across industries like education, e-commerce, and entertainment.  
+
+### Code Completion
 
 * **Description**: Assists in writing and optimizing code by suggesting relevant snippets and autocompleting functions.
 * **Use Cases**:
@@ -9,7 +18,7 @@
   * Learning tools that support beginners with guided code and explanations.
   * AI agents that can autonomously generate, refactor, and document code, boosting productivity in developer workflows.
 
-### Stable Diffusion
+### Image Generation
 
 * **Description**: Generates high-quality images based on textual descriptions, ideal for creative and visual content.
 * **Use Cases**:
@@ -27,7 +36,7 @@
   * Social media automation with AI-generated image captions.
   * AI agents that analyze visual content and generate descriptive captions or contextually relevant responses based on images.
 
-### Automatic Speech Recognition (ASR)
+### Transcription
 
 * **Description**: Transcribes spoken language into text, making audio content accessible and editable.
 * **Use Cases**:
