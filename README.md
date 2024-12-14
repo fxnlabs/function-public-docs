@@ -8,9 +8,9 @@ Function Developer Platform is our premier gateway exposing the following servic
 
 * Chat Completion
 * Code Completion
-* Stable Diffusion
+* Image Generation
 * Image Captioning
-* Automatic Speech Recognition
+* Transcription
 * Embeddings
 
 ### Quick Access Links
