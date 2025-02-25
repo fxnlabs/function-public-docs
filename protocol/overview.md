@@ -41,17 +41,3 @@ The Function Network dynamically scales with demand:
 
 - Providers can support multiple models to maximize their earnings.
 - Gateways ensure seamless routing and scalability for users.
-
-## How It Works
-
-1. **Registration**  
-   Providers and gateways register on the network, linking their accounts to specific models or operations.
-
-2. **Staking**  
-   Providers and gateways stake FUNC tokens to participate in the network. Staking ensures accountability and incentivizes contributions.
-
-3. **Task Execution**  
-   Providers execute tasks defined by AI models, while gateways route requests to the appropriate providers.
-
-4. **Reward Distribution**  
-   Rewards are calculated and distributed at the end of each epoch based on contributions and performance.
