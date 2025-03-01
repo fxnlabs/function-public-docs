@@ -1,5 +1,7 @@
 ## Contract Core Components
 
+Note that we aim to keep these documents up to date, but they may not always reflect the latest changes in the codebase prior to release on mainnet. If you notice a discrepency, please ping an admin in our discord. Thank you.
+
 ### **FUNC Token**
 
 FUNC is the native utility token of the Function Network. It powers the ecosystem by:
