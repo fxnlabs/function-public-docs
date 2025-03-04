@@ -106,7 +106,7 @@ claimRewards("id", 10, 20)
 
 ### **Gateway Staking Workflows**
 
-Currently Third Party Gateways are not enabled yet.
+Currently Third Party Gateways are not currently enabled.
 
 <!--
 #### **1. Registering & Staking a Gateway**
