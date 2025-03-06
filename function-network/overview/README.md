@@ -1,6 +1,6 @@
 # 🚀 Function Network
 
-Function Network is a **decentralized infrastructure** designed to power AI inference workloads. Function Network **democratizes AI compute** by enabling anyone with computational resources to participate. Gateways facilitate seamless interaction for users, while providers execute computational tasks defined by cutting-edge AI models.
+Function Network is a **decentralized inference protocol** designed to power AI inference workloads. Function Network **democratizes AI compute** by enabling anyone with computational resources to participate. Gateways facilitate seamless interaction for users, while providers execute computational tasks defined by cutting-edge AI models.
 
 At its core, Function Network utilizes **FUNC**, a blockchain-based token, to enable staking, governance, and reward distribution, ensuring efficiency and trust within the system. By connecting compute providers, gateways, and AI models, the network creates a **scalable, transparent, and incentive-driven ecosystem.**
 
