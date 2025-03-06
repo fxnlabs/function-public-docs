@@ -1,10 +1,10 @@
-# 🤖 Inference User Guide
+# 🤖 AU User Guide
 
 Function Network enables **users** to access **high-performance AI inference** in a **decentralized and censorship-resistant** ecosystem. Whether you're **chatting with AI, generating content, or running model inference**, Function provides seamless access to **powerful models** without reliance on centralized providers.
 
 ---
 
-## 🔗 Inference Resources
+## 🔗 AU Resources
 
 🔗 **[Try Function Chat](https://chat.function.network)** – Experience AI-powered chat on Function Network.
 
@@ -15,7 +15,7 @@ Function Network enables **users** to access **high-performance AI inference** i
 1. **Decentralized AI Access**
 
    - Users can **query AI models** directly through **Function-powered apps and services**.
-   - AI inference is routed **securely and efficiently** through decentralized gateways.
+   - AI is routed **securely and efficiently** through decentralized gateways.
 
 2. **No Centralized Restrictions**
 
@@ -24,7 +24,7 @@ Function Network enables **users** to access **high-performance AI inference** i
 
 3. **Earn & Participate**
    - Users who engage with Function-powered AI **may earn points eligibility and rewards**.
-   - Participate in governance discussions to **help shape future AI inference models**.
+   - Participate in governance discussions to **help shape future AI models**.
 
 ---
 
@@ -33,7 +33,7 @@ Function Network enables **users** to access **high-performance AI inference** i
 ### **Access AI-Powered Chat & Applications**
 
 🔹 **Use Function Chat** to interact with **decentralized AI in real-time**.  
-🔹 Run **inference queries**, generate text, and experiment with AI models.
+🔹 Run **AI queries**, generate text, and experiment with AI models.
 
 ### **Engage & Earn**
 
@@ -42,4 +42,4 @@ Function Network enables **users** to access **high-performance AI inference** i
 
 ---
 
-Function Network **makes AI accessible, open, and decentralized**—allowing anyone to **use, interact with, and benefit from AI inference**. 🚀
+Function Network **makes AI accessible, open, and decentralized**—allowing anyone to **use, interact with, and benefit from AI**. 🚀

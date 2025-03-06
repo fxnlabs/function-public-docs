@@ -13,11 +13,11 @@ Contribute **compute power** and earn rewards by **providing AI inference resour
 
 ---
 
-## 🤖 **For Inference Users**
+## 🤖 **For AI Users**
 
 Access **powerful AI models** on a decentralized network, ensuring **scalability, privacy, and reliability**.
 
-📖 **[Inference Users Docs](/function-network/using-function-network/inference.md)** – Get started with running AI inference.  
+📖 **[AI Users Docs](/function-network/using-function-network/inference.md)** – Get started with running AI inference.  
 🔗 **[Try Function Chat](https://chat.function.network/)** – Experience decentralized AI-powered chat.
 
 ---
