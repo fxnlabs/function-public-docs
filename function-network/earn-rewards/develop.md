@@ -1,6 +1,6 @@
 # **Develop with Function Network & Earn Rewards 🚀**
 
-Function Network is a **decentralized AI infrastructure** where developers can **build, fine-tune, and deploy AI models**, or create **first-party integrations** that leverage Function AI. Contribute to the ecosystem and **earn eligibility for future airdrops**.
+Function Network is a **decentralized AI infrastructure** where developers can **build, fine-tune, and deploy AI models**, or create **first-party integrations** that leverage Function AI. Contribute to the ecosystem and **earn eligibility for future points**.
 
 ## **💡 How It Works**
 
@@ -18,7 +18,7 @@ Function Network is a **decentralized AI infrastructure** where developers can *
 
 ## **🎁 What You Can Earn**
 
-🔹 **Exclusive Airdrops** – Receive **future rewards** for contributing AI models or integrations.  
+🔹 **Exclusive Points** – Receive **future rewards** for contributing AI models or integrations.  
 🔹 **Monetization Opportunities** – Get access to **network-based incentives and revenue-sharing**.  
 🔹 **Developer Perks** – Early access to **new AI tooling, integrations, and governance participation**.
 
@@ -26,6 +26,6 @@ Function Network is a **decentralized AI infrastructure** where developers can *
 
 By contributing your AI models or integrating with Function Network, you help shape the **future of decentralized AI** while gaining access to **network rewards**.
 
-👉 **Start developing today and earn eligibility for future airdrops!**
+👉 **Start developing today and earn eligibility for future points!**
 
-<!-- 🔗 **Get Started:** [Function Network Developer Portal](https://your-developer-portal.com) -->
+🔗 **Get Started:** [Function Network Developer Portal](https://platform.function.network/)

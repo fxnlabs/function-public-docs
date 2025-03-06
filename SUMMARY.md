@@ -1,43 +1,53 @@
 # Table of contents
 
-## Protocol
+## Function Network
+
+- [Overview](function-network/overview/README.md)
+  - [About Function](function-network/overview/learn-more.md)
+- [Using Function Network](function-network/using-function-network/README.md)
+  - [Inference Users](function-network/using-function-network/inference.md)
+  - [Compute Providers](function-network/using-function-network/providers.md)
+  - [Developers](function-network/using-function-network/developers.md)
+- [Tokenomics](function-network/tokenomics-and-fees/tokenomics.md)
+- [Earn Rewards](function-network/earn-rewards/README.md)
+  - [Chat](function-network/earn-rewards/chat.md)
+  - [Develop](function-network/earn-rewards/develop.md)
+  - [Provide](function-network/earn-rewards/provide.md)
+- [Contracts](function-network/contracts/README.md)
+  - [Router.sol](function-network/contracts/ROUTER.md)
+  - [EpochController.sol](function-network/contracts/EPOCHCONTROLLER.md)
+  - [GatewayRegistry.sol](function-network/contracts/GATEWAYREGISTRY.md)
+  - [GatewayCheckpoint.sol](function-network/contracts/GATEWAYCHECKPOINT.md)
+  - [GatewayStaking.sol](function-network/contracts/GATEWAYSTAKING.md)
+  - [ProviderStakingFactory.sol](function-network/contracts/PROVIDERSTAKINGFACTORY.md)
+  - [ProviderRegistry.sol](function-network/contracts/PROVIDERREGISTRY.md)
+  - [ProviderCheckpoint.sol](function-network/contracts/PROVIDERCHECKPOINT.md)
+  - [ProviderStaking.sol](function-network/contracts/PROVIDERSTAKING.md)
+  - [Model.sol](function-network/contracts/MODEL.md)
+  - [Permissions.sol](function-network/contracts/PERMISSIONS.md)
+  - [Logic.sol](function-network/contracts/LOGIC.md)
+  - [Treasury.sol](function-network/contracts/TREASURY.md)
+- [Roadmap](function-network/roadmap/roadmap.md)
+- [FAQ](function-network/faq/FAQ.md)
+- [Glossary of Terms](function-network/glossary/glossary-of-terms.md)
+
+<!-- ## Protocol
 
 - [Overview](protocol/overview.md)
 - [Using Function Network](protocol/using-function/participate.md)
   - [Staking Workflows](protocol/using-function/staking-workflows.md)
-  - [Tokenomics & Fees](protocol/using-function/tokenomics-and-fees.md)
-- [Earn Rewards](protocol/rewards/README.md)
-  - [Chat](protocol/rewards/chat.md)
-  - [Develop](protocol/rewards/develop.md)
-  - [Provide](protocol/rewards/provide.md)
-- [Contracts](protocol/contracts/README.md)
-  - [Router.sol](protocol/contracts/ROUTER.md)
-  - [EpochController.sol](protocol/contracts/EPOCHCONTROLLER.md)
-  - [GatewayRegistry.sol](protocol/contracts/GATEWAYREGISTRY.md)
-  - [GatewayCheckpoint.sol](protocol/contracts/GATEWAYCHECKPOINT.md)
-  - [GatewayStaking.sol](protocol/contracts/GATEWAYSTAKING.md)
-  - [ProviderStakingFactory.sol](protocol/contracts/PROVIDERSTAKINGFACTORY.md)
-  - [ProviderRegistry.sol](protocol/contracts/PROVIDERREGISTRY.md)
-  - [ProviderCheckpoint.sol](protocol/contracts/PROVIDERCHECKPOINT.md)
-  - [ProviderStaking.sol](protocol/contracts/PROVIDERSTAKING.md)
-  - [Model.sol](protocol/contracts/MODEL.md)
-  - [Permissions.sol](protocol/contracts/PERMISSIONS.md)
-  - [Logic.sol](protocol/contracts/LOGIC.md)
-  - [Treasury.sol](protocol/contracts/TREASURY.md)
-- [Roadmap](protocol/roadmap.md)
-- [FAQ](protocol/FAQ.md)
-- [Glossary of Terms](protocol/glossary-of-terms.md)
+  - [Tokenomics & Fees](protocol/using-function/tokenomics-and-fees.md) -->
 
 ## Developer Platform
 
-- [Overview](README.md)
+- [Overview](developer-platform/README.md)
 - [Service Descriptions](developer-platform/service-descriptions.md)
 - [First Party Library Support](developer-platform/first-party-library-support/README.md)
   - [Python Example](developer-platform/first-party-library-support/python-example.md)
   - [Typescript & Node Backend Example](developer-platform/first-party-library-support/typescript-and-node-backend-example.md)
 - [OpenAI Compatible API](developer-platform/openai-compatible-api.md)
 
-## Models Supported
+## Supported Models
 
 - [Chat & Code Completion](models-supported/chat-and-code-completion.md)
 - [Embeddings](models-supported/embeddings.md)

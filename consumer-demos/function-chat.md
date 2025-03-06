@@ -1,31 +1,40 @@
----
-description: Applied demo of our chat completion models
----
+# 💬 Function Chat
 
-# Function Chat
-
-## Access Links
-
-* Web: [https://chat.function.network](https://chat.function.network)
-* iOS (Testflight): [https://testflight.apple.com/join/1xBXgDCk](https://testflight.apple.com/join/1xBXgDCk)
-* Android: [https://expo.dev/artifacts/eas/jVz3PfabMwq2SXigxPLLWy.apk](https://expo.dev/artifacts/eas/jVz3PfabMwq2SXigxPLLWy.apk)
-
-## **Core Features**
-
-The chatbot UI integrates features such as message threads, history tracking, and conversation flow. These elements ensure an intuitive and engaging user experience, mimicking successful platforms like ChatGPT and Perplexity, but with the added benefit of supporting a variety of models.&#x20;
-
-## **Mobile support**
-
-Extending availability to mobile devices broadens the potential user base significantly, tapping into the growing trend of mobile-first applications. Mobile accessibility ensures that Function Network’s capabilities are within reach of a wider audience.
-
-## **Model Support**
-
-To cater to a wide range of needs right from the start, Function Network will support various models including Qwen 0.5B/1.5B and Llama 3.1 8B/70B/405B. Users can also opt to deploy their own model to Function Network and use it within the chatbot independently or share it to the world.&#x20;
-
-## Closing Statement
-
-By integrating these features and focusing on user accessibility, Function is set to attract a substantial user base, providing them with tools that demonstrate the capabilities of our developer platform.
+Function Chat is your gateway to **powerful AI conversations**—a decentralized chatbot designed to provide **fast, intelligent, and seamless AI interactions**. Whether you're **asking questions, generating content, or exploring AI models**, Function Chat delivers **a smooth, private, and censorship-resistant experience**.
 
 <figure><img src="../.gitbook/assets/Screen Recording 2024-08-20 at 5.56.07 PM.gif" alt=""><figcaption><p>Example of user interaction with Function Chat UI</p></figcaption></figure>
 
-[Continue Reading](broken-reference)
+---
+
+## 🌐 **Access Function Chat**
+
+🔗 **Web**: [Web App](https://chat.function.network)  
+📱 **iOS (TestFlight)**: [Join here](https://testflight.apple.com/join/1xBXgDCk)  
+📲 **Android**: [Download APK](https://expo.dev/artifacts/eas/jVz3PfabMwq2SXigxPLLWy.apk)
+
+---
+
+## ✨ **Why Use Function Chat?**
+
+### **🚀 Intuitive & Seamless Chat Experience**
+
+- Enjoy **threaded conversations, chat history, and fluid responses** in an interface that feels natural and easy to use.
+- Function Chat is built with **user experience in mind**, intuitive and easy to use.
+
+### **📱 Available on Web & Mobile**
+
+- **Chat from anywhere**—Function Chat is accessible via **Web, iOS, and Android**, ensuring AI is always within reach.
+- Mobile-friendly design means you can **engage with AI on the go**.
+
+### **🧠 AI Model Flexibility**
+
+- Function Chat supports **multiple AI models**, including **Qwen 0.5B/1.5B** and **Llama 3.1 (8B, 70B, 405B)**.
+- Want to use a **custom AI model**? **Deploy your own** and integrate it into Function Chat for personal or shared use.
+
+---
+
+## 🔮 **The Future of AI Conversations**
+
+Function Chat isn't just another chatbot—it’s a **gateway to decentralized AI**. By ensuring **open access, privacy, and model flexibility**, we're making AI **more accessible and censorship-resistant** than ever.
+
+🌍 **Try Function Chat today** and be part of the future of AI-driven conversations! 🚀
