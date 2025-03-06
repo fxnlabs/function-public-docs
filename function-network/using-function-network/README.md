@@ -17,7 +17,7 @@ Contribute **compute power** and earn rewards by **providing AI inference resour
 
 Access **powerful AI models** on a decentralized network, ensuring **scalability, privacy, and reliability**.
 
-📖 **[Inference Users Docs](function-network/using-function-network/inference.md)** – Get started with running AI inference.  
+📖 **[Inference Users Docs](/function-network/using-function-network/inference.md)** – Get started with running AI inference.  
 🔗 **[Try Function Chat](https://chat.function.network/)** – Experience decentralized AI-powered chat.
 
 ---
@@ -26,7 +26,7 @@ Access **powerful AI models** on a decentralized network, ensuring **scalability
 
 Integrate **Function-powered AI inference** into your applications and dApps.
 
-📖 **[Developer Docs](function-network/using-function-network/developers.md)** – Explore APIs, SDKs, and integration guides.  
+📖 **[Developer Docs](/function-network/using-function-network/developers.md)** – Explore APIs, SDKs, and integration guides.  
 🔗 **[Developer Platform](https://https://platform.function.network/)** – Start building with Function AI.
 
 ---
