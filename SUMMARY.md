@@ -5,7 +5,7 @@
 - [Overview](function-network/overview/README.md)
   - [About Function](function-network/overview/learn-more.md)
 - [Using Function Network](function-network/using-function-network/README.md)
-  - [Inference Users](function-network/using-function-network/inference.md)
+  - [AI Users](function-network/using-function-network/inference.md)
   - [Compute Providers](function-network/using-function-network/providers.md)
   - [Developers](function-network/using-function-network/developers.md)
 - [Tokenomics](function-network/tokenomics-and-fees/tokenomics.md)
