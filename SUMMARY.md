@@ -1,5 +1,6 @@
 # Table of contents
 
+<!--
 ## Function Network
 
 - [Overview](function-network/overview/README.md)
@@ -29,7 +30,7 @@
   - [Treasury.sol](function-network/contracts/TREASURY.md)
 - [Roadmap](function-network/roadmap/roadmap.md)
 - [FAQ](function-network/faq/FAQ.md)
-- [Glossary of Terms](function-network/glossary/glossary-of-terms.md)
+- [Glossary of Terms](function-network/glossary/glossary-of-terms.md) -->
 
 <!-- ## Protocol
 
