@@ -1,12 +1,12 @@
 # **Function Network Rewards 💰**
 
-Function Network is a **decentralized AI infrastructure** where users can **earn rewards** by contributing in different ways. Whether you **chat with AI, develop models, integrate applications, or provide compute power**, you can **unlock rewards**.
+The Function Network protocol enables a marketplace between users, developers and, compute providers. Importantly, it incentivizes all users in the ecosystem for contributing. Whether you **chat with AI, develop models, integrate applications, or provide compute power**, you can **unlock rewards** by helping realize the mission of Function Network.
 
 ## **🚀 Ways to Earn Rewards**
 
-### 🗨️ **1. Chat & Earn**
+### 🗨️ **1. Chat to Earn**
 
-Engage with decentralized AI through Function Chat and **earn rewards**.  
+Usage and feedback from usage make Function Network better. Engage with decentralized AI through Function Chat and **earn rewards**.   
 🔹 **How?** Use the chat app for AI-powered assistance, brainstorming, or research.  
 🔹 **What You Earn?** During testnet, receive points. During mainnet, earn FUNC*.  
 🔗 **[Learn More](https://docs.function.network/protocol/rewards/chat)**
@@ -21,8 +21,8 @@ Build and deploy AI models **or** create first-party integrations using Function
 ### 🔥 **3. Provide Compute & Earn**
 
 Contribute **GPU & compute power** to power decentralized AI inference.  
-🔹 **How?** Share your hardware to process AI workloads.  
-🔹 **What You Earn?** During testnet, receive points. During mainnet, earn FUNC*.
+🔹 **How?** Share your hardware to process AI workloads. 
+🔹 **What You Earn?** During testnet, receive points. During mainnet, earn FUNC*. 
 🔗 **[Learn More](https://docs.function.network/protocol/rewards/provide)**
 
 ## **🚀 Start Earning with Function Network!**
