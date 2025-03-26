@@ -104,7 +104,7 @@
 
 1. **Will there be points? If so, how do points work, and what are they used for?**
 
-   - Before on-chain rewards, Function may institute a points system. Points would represent **engagement and contributions** within the network and **may be redeemable for rewards, governance influence, or airdrops in the future**. Please see our [Terms & Conditions]([url](https://www.function.network/tos)) for more details. 
+   - Before on-chain rewards, Function may institute a points system. Points would represent **engagement and contributions** within the network and **may be redeemable for rewards, governance influence, or airdrops in the future**. Please see our [Terms & Conditions]([url](https://www.function.network/tos.txt)) for more details. 
 
    **➡️ How can I earn points?**
 
