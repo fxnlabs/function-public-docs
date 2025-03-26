@@ -38,9 +38,9 @@
 
    - This is the **minimum number of epochs FUNC tokens must remain staked** before they can be unstaked.
 
-6. **Will there be points or airdrops for early users?**
+6. **Will there be points or airdrops for early users before on-chain incentives begin?**
 
-   - Yes! Users who participate in **inference requests, providing compute, or staking FUNC** may earn **points** that **could translate to future airdrops, incentives, or governance influence**.
+   - Yes! Users who participate in **inference requests, providing compute, or staking FUNC** may earn **points** that **could translate to future airdrops, incentives, or governance influence**. Details to come. 
 
 ---
 
@@ -92,7 +92,7 @@
 
    **➡️ What’s the risk of unstaking?**
 
-   - There are **burn 'discount' incentives** for being staked longer. Unstaking would reset your current discount teir.
+   - There are **burn 'discount' incentives** for being staked longer. Unstaking will reset your current discount tier.
 
 3. **What metadata do gateways need?**
 
@@ -102,18 +102,23 @@
 
 ### **🛠 Additional Questions (Airdrops, Points, and Future Benefits)**
 
-1. **How do points work, and what are they used for?**
+1. **Will there be points? If so, how do points work, and what are they used for?**
 
-   - Points represent **engagement and contributions** within the network and **may be redeemable for rewards, governance influence, or airdrops in the future**.
+   - Before on-chain rewards, Function may institute a points system. Points would represent **engagement and contributions** within the network and **may be redeemable for rewards, governance influence, or airdrops in the future**. Please see our [Terms & Conditions]([url](https://www.function.network/tos)) for more details. 
 
    **➡️ How can I earn points?**
 
-   - Engage with **AI inference**, stake FUNC, provide compute power, or **use Function Chat** to qualify.
+   - Using Function Network may make you eligible for points. Engage with **AI inference**, stake FUNC, provide compute power, or **use Function Chat** to qualify.
 
-2. **When will airdrops be distributed?**
+2. **What's the difference between Points and rewards?**
 
-   - While specific dates are not confirmed, **early users who interact with the network** will be prioritized for **potential airdrops**.
+- Rewards are on-chain incentives (in the form of FUNC) for performing actions that benefit Function Network.
+- Points represent **engagement and contributions** but not necessarily on-chain rewards. Points **may** make you eligible for future on-chain incentives like airdrops.
+
+3. **When will airdrops be distributed?** 
+
+   - If airdrops occur, eligibility criteria and timelines will be posted on our official channels. Please stay tuned to our official channels for details.
 
    **➡️ Should I participate now?**
 
-   - **Early adopters have the highest chance** of receiving benefits before mainstream adoption.
+   - Yes! Points programs will be designed to reward early users. **Early adopters have the highest chance** of receiving rewards.
