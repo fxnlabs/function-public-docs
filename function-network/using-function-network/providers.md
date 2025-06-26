@@ -6,7 +6,7 @@ Function Network allows **compute providers** to contribute AI inference power i
 
 ## 🔗 Provider Resources
 
-🔗 [**Function Network Dapp**](providers.md) – Register, stake, and manage your provider status. (Currently not live)
+🔗 [**Function Network Dapp**](providers.md) – Register, stake, and manage your provider status.
 
 ***
 
