@@ -1,49 +1,53 @@
-## Contract Core Components
+---
+hidden: true
+---
+
+# Contracts
 
 Note that we aim to keep these documents up to date, but they may not always reflect the latest changes in the codebase prior to release on mainnet. If you notice a discrepency, reach out to us: contact@function.network.
 
-### **FUNC Token**
+## **FUNC Token**
 
 FUNC is the native utility token of the Function Network. It powers the ecosystem by:
 
-- **Staking**: Required for providers and gateways to participate.
-- **Rewards**: Distributed to contributors based on performance.
-- **Governance (Roadmap)**: FUNC holders influence decisions about the network's evolution.
+* **Staking**: Required for providers and gateways to participate.
+* **Rewards**: Distributed to contributors based on performance.
+* **Governance (Roadmap)**: FUNC holders influence decisions about the network's evolution.
 
-### **Providers**
+## **Providers**
 
 Providers supply computational resources for running AI models. They:
 
-- Stake FUNC to participate.
-- Execute AI inference tasks and earn FUNC rewards.
-- Support specific models by aligning with their staking and performance requirements.
+* Stake FUNC to participate.
+* Execute AI inference tasks and earn FUNC rewards.
+* Support specific models by aligning with their staking and performance requirements.
 
-### **Gateways**
+## **Gateways**
 
 Gateways enable users to interact with the network. They:
 
-- Stake FUNC to operate.
-- Route user requests to providers and ensure task execution.
-- Earn FUNC for their role in connecting users to the network.
+* Stake FUNC to operate.
+* Route user requests to providers and ensure task execution.
+* Earn FUNC for their role in connecting users to the network.
 
-### **Models**
+## **Models**
 
 AI models define the computational workloads to be executed on the network. Each model:
 
-- Specifies computational requirements like shards and compute units.
-- Requires providers to stake FUNC to support them.
+* Specifies computational requirements like shards and compute units.
+* Requires providers to stake FUNC to support them.
 
-### **Router**
+## **Router**
 
 The Router acts as the central management hub, connecting providers, gateways, models, and other core components.
 
-### **Treasury**
+## **Treasury**
 
 The Treasury manages FUNC tokens and ensures accurate reward distribution to providers and gateways.
 
-### **Checkpoints**
+## **Checkpoints**
 
 Checkpoint contracts track contributions and performance over time:
 
-- **Provider Checkpoints**: Monitor provider activity and shards contributed.
-- **Gateway Checkpoints**: Track gateway usage and compute units consumed.
+* **Provider Checkpoints**: Monitor provider activity and shards contributed.
+* **Gateway Checkpoints**: Track gateway usage and compute units consumed.
