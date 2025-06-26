@@ -32,7 +32,7 @@ Function Network enables **developers** to integrate, fine-tune, and deploy **de
 
 ### **Engage with the Function Developer Community**
 
-🔹 Participate in **testnet bounties, and governance discussions** to help shape the ecosystem.\
+🔹 Participate in **testnet bounties** to help shape the ecosystem.\
 🔹 Collaborate with other developers to **optimize model performance and inference efficiency**.
 
 ***

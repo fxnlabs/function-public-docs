@@ -8,6 +8,8 @@ Function Network enables **users** to access **high-performance AI inference** i
 
 🔗 [**Try Function Chat**](https://chat.function.network) – Experience AI-powered chat on Function Network.
 
+More apps to come.
+
 ***
 
 ## 🛠️ How It Works
