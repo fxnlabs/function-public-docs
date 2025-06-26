@@ -6,19 +6,11 @@ At its core, Function Network utilizes **FUNC**, a blockchain-based token, to en
 
 ***
 
-## 📖 User Guides
+## 📖 Choose your path
 
 🔹 [**Consumers**](function-network/using-function-network/#for-ai-users) – Use our suite of AI-powered applicatons built by our community.\
 🔹 [**Developers**](function-network/using-function-network/developers.md) – Build and deploy AI-powered applications.\
-🔹 [**Inference Users**](function-network/using-function-network/inference.md) – Run decentralized AI inference seamlessly.\
 🔹 [**Compute Providers**](function-network/using-function-network/providers.md) – Contribute compute power and earn rewards.
-
-***
-
-## 🛠 Featured Tools
-
-🔹 [**Developer Platform**](https://platform.function.network) – APIs and SDKs for seamless AI integration.\
-🔹 [**Chat App**](https://chat.function.network) – Try Function-powered AI chat today.
 
 ***
 
