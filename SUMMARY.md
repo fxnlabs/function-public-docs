@@ -48,6 +48,6 @@
 * [Text To Image](models-supported/text-to-image.md)
 * [Transcription](models-supported/transcription.md)
 
-## Consumer Demos
+## Community Apps
 
-* [Function Chat](consumer-demos/function-chat.md)
+* [Function Chat](community-apps/function-chat.md)

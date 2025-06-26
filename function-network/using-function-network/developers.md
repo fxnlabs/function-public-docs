@@ -37,4 +37,4 @@ Function Network enables **developers** to integrate, fine-tune, and deploy **de
 
 ***
 
-Function Network empowers developers to **build, integrate, and scale decentralized AI solutions**—ensuring AI remains **open, fair, and accessible to all**. 🚀
+Function Network empowers developers to **build, integrate, and scale decentralized AI solutions,** ensuring AI remains **open, fair, and accessible to all**. 🚀

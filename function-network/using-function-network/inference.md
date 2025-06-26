@@ -40,4 +40,4 @@ More apps to come.
 
 ***
 
-Function Network **makes AI accessible, open, and decentralized**—allowing anyone to **use, interact with, and benefit from AI**. 🚀
+Function Network **makes AI accessible, open, and decentralized,** allowing anyone to **use, interact with, and benefit from AI**. 🚀
