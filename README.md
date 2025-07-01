@@ -1,6 +1,6 @@
 # Overview
 
-AI today sits behind closed doors: proprietary models, scarce compute, and centralized control leave creators uncompensated and users locked in. **Function Network** tears down these walls with a blockchain-powered protocol that makes inference **open, decentralized, and permissionless**, so anyone can contribute, anyone can consume, and no single entity can censor or gate access.
+AI today sits behind closed doors: proprietary models, scarce compute, and centralized control leave creators uncompensated and users locked in. **Function Network** tears down these walls with a blockchain-powered protocol that makes AI **open, decentralized, and permissionless**, so anyone can contribute, anyone can consume, and no single entity can censor or gate access.
 
 ### The Problem: Open-Source AI Isn’t Accessible for All
 
