@@ -2,53 +2,38 @@
 
 Function Network is **designed to democratize AI inference**, providing **scalability, transparency, and decentralized rewards** for all participants.
 
-***
 
-## 🎯 **Why Function Network?**
+## The Problem: Open Source AI Isn’t Accessible for All  
+- **Zero Income for Model Creators**  
+  Popular open-source models see millions of downloads but creators earn \$0 in royalties.  
+- **High Infrastructure Costs**  
+  Creators or end-users must build complex SaaS platforms or rent GPUs from centralized marketplaces, often at unsustainable prices.  
+- **Poor Discovery & Incentives**  
+  No clear on-chain incentive structure means community-driven innovation and usage remain limited.  
 
-1. **🌍 Decentralized AI Infrastructure** – Open access to AI compute, ensuring **fair and transparent participation**.
-2. **⚡ Scalable & Flexible** – Dynamically supports **multiple models, providers, and gateways** for evolving AI workloads.
-3. **💰 Fair Reward System** – **Performance-based tracking & checkpoints** ensure transparent FUNC reward distribution.
+## Our Solution: Democratize AI with Function Network  
 
-***
+1. **Model Discovery**  
+   A searchable marketplace for open-source models, making it easy for developers to find and integrate the best AI.  
+2. **Scalable Hosting**  
+   Sharded, distributed inference across diverse GPU providers (from RTX 3090s to datacenter fleets) lowers costs and boosts performance.  
+3. **Fully Managed**  
+   End-to-end infrastructure, SLA-backed by on-chain enforcement. No DevOps overhead for creators or consumers.  
+4. **On-Chain Monetization**  
+   Automated royalty payments and usage fees settled in FUNC tokens, so creators, providers, and developers all earn their fair share.  
 
-## 🔑 **Key Features**
+## Incentive Alignment: How the Network Works  
+FUNC tokens power every interaction on-chain:
 
-### **🤖 Decentralized AI Inference**
+- **Portals (Developers)**  
+  Deposit FUNC to purchase inference throughput.  
+- **Compute Providers**  
+  Stake resources, host models, and earn FUNC for each inference served.  
+- **Model Creators**  
+  Automatically receive a cut of the FUNC paid by providers, turning downloads into recurring revenue.  
+- **Smart Contracts**  
+  Coordinate deposits, payments, and royalties with instant settlement and full transparency. 
 
-Function Network enables AI inference to run **across a decentralized infrastructure**, eliminating reliance on **centralized AI providers**.
+## The Function Flywheel  
 
-🔹 **AI Models** – Define **specific workloads** like NLP, image recognition, or custom models.\
-🔹 **Providers** – Supply **compute power** to process AI tasks.\
-🔹 **Gateways** – Route user requests **efficiently across the network**.
-
-***
-
-### **💎 Staking & Rewards**
-
-Providers and gateways **stake FUNC tokens** to **participate and earn** in the network.
-
-🔹 **Providers** – Stake FUNC to support AI models and earn rewards **based on computational contributions**.\
-🔹 **Gateways** – Stake FUNC to **route inference requests** and earn FUNC rewards.
-
-***
-
-### **📊 Transparent Reward System**
-
-Rewards are distributed **based on performance and contribution tracking**.
-
-🔹 **Epoch-Based Rewards** – FUNC incentives are **distributed at the end of each epoch**.\
-🔹 **Checkpointing** – **Accurate tracking** of historical contributions ensures **fair reward allocation**.
-
-***
-
-### **📈 Scalable Infrastructure**
-
-Function Network **dynamically scales** to meet demand, ensuring efficiency across AI workloads.
-
-🔹 **Providers** – Support **multiple AI models** to **maximize earnings**.\
-🔹 **Gateways** – Enable **seamless AI routing & scalability** for users.
-
-***
-
-Function Network is **redefining AI inference**, making it **decentralized, scalable, and accessible** to all. 🚀
+![alt text](image.png)
