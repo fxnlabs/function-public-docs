@@ -4,12 +4,12 @@ AI today sits behind closed doors: proprietary models, scarce compute, and centr
 
 ### The Problem: Open-Source AI Isn’t Accessible for All
 
-* **No Revenue for Creators**\
-  Creators currently do not receive fees for the models they publish to the public. All the revenue flows to the infrastructure provider or application layer leading to misaligned incentives on open source contributions.
-* **Lack of Onchain Incentives**\
-  Without transparent, automated payment mechanisms, model discovery, improvement, and sustained maintenance fall by the wayside.
-* **Broken Hosting Economics**\
-  Running inference at scale demands complex infrastructure or expensive cloud GPUs; individual creators and smaller teams face prohibitive costs and operational overhead.
+* **Zero Creator Revenue**\
+  Model authors publish to the world yet earn nothing. Every dollar goes to the hosting or application layer, leaving open-source contributions undervalued and unsustainable.
+* **Poor Model Discoverability & Bootstrapping**\
+  Even the best models languish unseen: without a clear on-chain marketplace or incentive to spotlight high-quality work, providers won’t host them and developers can’t find or use them.
+* **Unsustainable Hosting Costs**\
+  Serving inference at scale requires complex orchestration or costly cloud GPUs, putting small teams and individual creators out of reach and stalling innovation.
 
 ### Our Solution: Democratize AI with Function Network
 
