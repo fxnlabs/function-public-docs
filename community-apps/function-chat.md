@@ -1,6 +1,6 @@
 # Function Chat
 
-Function Chat is your gateway to **powerful AI conversations**—a decentralized chatbot designed to provide **fast, intelligent, and seamless AI interactions**. Whether you're **asking questions, generating content, or exploring AI models**, Function Chat delivers **a smooth, private, and censorship-resistant experience**.
+Function Chat is your gateway to **powerful AI conversations**, a decentralized chatbot designed to provide **fast, intelligent, and seamless AI interactions**. Whether you're **asking questions, generating content, or exploring AI models**, Function Chat delivers **a smooth, private, and censorship-resistant experience**.
 
 ***
 
@@ -23,7 +23,7 @@ Function Chat is your gateway to **powerful AI conversations**—a decentralized
 
 ### **📱 Available on Web & Mobile**
 
-* **Chat from anywhere**—Function Chat is accessible via **Web, iOS, and Android**, ensuring AI is always within reach.
+* **Chat from anywhere**: Function Chat is accessible via **Web, iOS, and Android**, ensuring AI is always within reach.
 * Mobile-friendly design means you can **engage with AI on the go**.
 
 ### **🧠 AI Model Flexibility**
@@ -35,6 +35,6 @@ Function Chat is your gateway to **powerful AI conversations**—a decentralized
 
 ## 🔮 **The Future of AI Conversations**
 
-Function Chat isn't just another chatbot—it’s a **gateway to decentralized AI**. By ensuring **open access, privacy, and model flexibility**, we're making AI **more accessible and censorship-resistant** than ever.
+Function Chat isn't just another chatbot, it’s a **gateway to decentralized AI**. By ensuring **open access, privacy, and model flexibility**, we're making AI **more accessible and censorship-resistant** than ever.
 
 🌍 **Try Function Chat today** and be part of the future of AI-driven conversations! 🚀

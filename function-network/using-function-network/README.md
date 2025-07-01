@@ -31,4 +31,4 @@ Integrate **Function-powered AI inference** into your applications and dApps.
 
 ***
 
-Function Network is shaping the **future of AI**—where **compute is distributed, access is open, and innovation is unstoppable.** 🚀
+Function Network is shaping the **future of AI** where **compute is distributed, access is open, and innovation is unstoppable.** 🚀

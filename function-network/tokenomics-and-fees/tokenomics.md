@@ -34,7 +34,7 @@ FUNC is the **utility token** powering the Function Network, facilitating **stak
 ### **🔗 Fixed Supply & Scarcity**
 
 * FUNC has a **fixed supply of 1,000,000,000 tokens**, ensuring long-term value retention.
-* No inflationary mechanisms—FUNC’s utility is **driven by demand and network participation**.
+* No inflationary mechanisms. FUNC’s utility is **driven by demand and network participation**.
 
 ### **🏦 Treasury & Network Growth**
 
