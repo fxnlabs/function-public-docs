@@ -9,7 +9,7 @@ Function Network is **designed to democratize AI inference**, providing **scalab
 - **High Infrastructure Costs**  
   Creators or end-users must build complex SaaS platforms or rent GPUs from centralized marketplaces, often at unsustainable prices.  
 - **Poor Discovery & Incentives**  
-  No clear on-chain incentive structure means community-driven innovation and usage remain limited.  
+  No clear onchain incentive structure means community-driven innovation and usage remain limited.  
 
 ## Our Solution: Democratize AI with Function Network  
 
@@ -18,12 +18,12 @@ Function Network is **designed to democratize AI inference**, providing **scalab
 2. **Scalable Hosting**  
    Sharded, distributed inference across diverse GPU providers (from RTX 3090s to datacenter fleets) lowers costs and boosts performance.  
 3. **Fully Managed**  
-   End-to-end infrastructure, SLA-backed by on-chain enforcement. No DevOps overhead for creators or consumers.  
-4. **On-Chain Monetization**  
+   End-to-end infrastructure, SLA-backed by onchain enforcement. No DevOps overhead for creators or consumers.  
+4. **Onchain Monetization**  
    Automated royalty payments and usage fees settled in FUNC tokens, so creators, providers, and developers all earn their fair share.  
 
 ## Incentive Alignment: How the Network Works  
-FUNC tokens power every interaction on-chain:
+FUNC tokens power every interaction onchain:
 
 - **Portals (Developers)**  
   Deposit FUNC to purchase inference throughput.  

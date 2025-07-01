@@ -32,7 +32,7 @@
     * Yes! Providers with **higher uptime, efficient nodes, and well-optimized compute setups** will earn **more rewards per epoch**.
 5. **What is the significance of `minEpochsLocked`?**
    * This is the **minimum number of epochs FUNC tokens must remain staked** before they can be unstaked.
-6. **Will there be points or airdrops for early users before on-chain incentives begin?**
+6. **Will there be points or airdrops for early users before onchain incentives begin?**
    * Yes! Users who participate in **inference requests, providing compute, or staking FUNC** may earn **points** that **could translate to future airdrops, incentives, or governance influence**. Details to come.
 
 ***
@@ -90,15 +90,15 @@
 
 1.  **Will there be points? If so, how do points work, and what are they used for?**
 
-    * Before on-chain rewards, Function may institute a points system. Points would represent **engagement and contributions** within the network and **may be redeemable for rewards, governance influence, or airdrops in the future**. Please see our [Terms & Conditions](https://www.function.network/tos.txt) for more details.
+    * Before onchain rewards, Function may institute a points system. Points would represent **engagement and contributions** within the network and **may be redeemable for rewards, governance influence, or airdrops in the future**. Please see our [Terms & Conditions](https://www.function.network/tos.txt) for more details.
 
     **➡️ How can I earn points?**
 
     * Using Function Network may make you eligible for points. Engage with **AI inference**, stake FUNC, provide compute power, or **use Function Chat** to qualify.
 2. **What's the difference between Points and rewards?**
 
-* Rewards are on-chain incentives (in the form of FUNC) for performing actions that benefit Function Network.
-* Points represent **engagement and contributions** but not necessarily on-chain rewards. Points **may** make you eligible for future on-chain incentives like airdrops.
+* Rewards are onchain incentives (in the form of FUNC) for performing actions that benefit Function Network.
+* Points represent **engagement and contributions** but not necessarily onchain rewards. Points **may** make you eligible for future onchain incentives like airdrops.
 
 3.  **When will airdrops be distributed?**
 
