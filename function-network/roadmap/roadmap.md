@@ -1,15 +1,5 @@
 # Roadmap
 
-AI is transforming the world, but it remains **locked behind walled gardens**, controlled by a handful of tech giants. Compute is scarce. Models are proprietary. Access is restricted.
-
-**Function Network is here to change that.**
-
-We envision a future where AI is **open, decentralized, and permissionless,** where **anyone can contribute**, **anyone can access**, and **no one can control** the flow of intelligence.
-
-By **connecting compute providers, gateways, and AI models in a seamless, blockchain-powered network**, we are building the foundation for the **next era of AI,** one that is truly **global, fair, and unstoppable.**
-
-***
-
 ## 🚀 Roadmap for a Decentralized AI Economy
 
 ### **🌱 Short-Term (1–6 Months): Laying the Foundation**

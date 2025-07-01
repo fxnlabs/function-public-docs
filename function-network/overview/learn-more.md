@@ -1,7 +1,14 @@
-# About Function
+# Background 
+
+AI is transforming the world, but it remains **locked behind walled gardens**, controlled by a handful of tech giants. Compute is scarce. Models are proprietary. Access is restricted.
+
+**Function Network is here to change that.**
+
+We envision a future where AI is **open, decentralized, and permissionless,** where **anyone can contribute**, **anyone can access**, and **no one can control** the flow of intelligence.
+
+By **incentivizng users, providers, and model creators through a blockchain-powered protocol**, we are building the foundation for the **next era of AI,** one that is truly **global, fair, and unstoppable.**
 
 Function Network is **designed to democratize AI inference**, providing **scalability, transparency, and decentralized rewards** for all participants.
-
 
 ## The Problem: Open Source AI Isn’t Accessible for All  
 - **Zero Income for Model Creators**  
