@@ -34,7 +34,7 @@ Build and publish AI models.\
 
 ## **🚀 Start Earning with Function Network!**
 
-The more you **use, build, provide, or publish**, the more you **earn points**. Whether you're a user, developer, or infrastructure provider, there's a way for you to participate in the decentralized AI revolution.
+The more you **chat, develop, provide, or publish**, the more you **earn points**. Whether you're a user, developer, or infrastructure provider, there's a way for you to participate in the decentralized AI revolution.
 
 👉 **Get started and earn points today!** 🚀
 
