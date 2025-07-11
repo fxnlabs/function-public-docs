@@ -27,6 +27,8 @@ AI today sits behind closed doors: proprietary models, scarce compute, and centr
 
 ### Incentive Alignment: How the Network Works
 
+The best-performing models attract developers, who pay compute providers to use them. In turn, compute providers share a portion of their earnings with the model creators. This creates a sustainable flywheel: developers get access to top-tier AI, compute providers earn by supplying the necessary infrastructure, and model creators are funded to continue innovating. This virtuous cycle encourages the creation of more high-quality, open-source models.
+
 Every protocol action is powered by **FUNC**:
 
 * **Developers** deposit FUNC to reserve inference capacity and pay per request.
