@@ -1,7 +1,5 @@
 # Node Configuration and Management
 
-This guide covers the essential commands and file structures for configuring and running a Function node.
-
 The Function node uses a set of configuration files located in the `~/.fxn` directory in your user's home folder.
 
 *   `config.yaml`: The main configuration file for the node server.
