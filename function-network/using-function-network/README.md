@@ -25,7 +25,7 @@ Integrate **Function-powered AI inference** into your applications and dApps.
 
 Contribute **compute power** and earn rewards by **providing AI inference resources**.
 
-📖 [**Docs**](function-network/using-function-network/node-operators/README.md) – Learn how to set up and operate as a provider.
+📖 [**Docs**](function-network/using-function-network/node-operators/README.md) – Learn how to set up and operate as a provider.\
 🔗 [**Provider Page**](https://www.function.network/dashboard) – Manage your provider status and stake directly on the Dapp.
 
 ***
@@ -34,7 +34,7 @@ Contribute **compute power** and earn rewards by **providing AI inference resour
 
 Function Network empowers model creators to monetize their work opensource AI community. By publishing your models to the network, you can earn royalties, gain visiblity and secure funding to continue training your model.
 
-📖 [**Docs**](function-network/using-function-network/provide-a-model.md) – Learn how to provide a model to the network.
+📖 [**Docs**](function-network/using-function-network/provide-a-model.md) – Learn how to provide a model to the network.\
 🔗 [**Models**](https://www.function.network/models) – View existing models on the network and provide your own permisonlessly.
 
 ***
