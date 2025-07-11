@@ -8,7 +8,7 @@ Function Network is designed to **empower anyone** to contribute to and access *
 
 Access **powerful AI models** on a decentralized network, ensuring **scalability, privacy, and reliability**.
 
-🔗 [**Try Function Chat**](community-apps/function-chat.md) – Experience decentralized AI-powered chat on the web and your mobile device.
+🔗 [**Try Function Chat**](broken-reference) – Experience decentralized AI-powered chat on the web and your mobile device.
 
 ***
 
@@ -16,7 +16,7 @@ Access **powerful AI models** on a decentralized network, ensuring **scalability
 
 Integrate **Function-powered AI inference** into your applications and dApps.
 
-📖 [**Docs**](developer-platform/README.md) – Explore APIs, SDKs, and integration guides.\
+📖 [**Docs**](broken-reference) – Explore APIs, SDKs, and integration guides.\
 🔗 [**Developer Platform**](https://https/platform.function.network/) – Start building with Function.
 
 ***
@@ -25,8 +25,8 @@ Integrate **Function-powered AI inference** into your applications and dApps.
 
 Contribute **compute power** and earn rewards by **providing AI inference resources**.
 
-📖 [**Docs**](function-network/using-function-network/node-operators/README.md) – Learn how to set up and operate as a provider.\
-🔗 [**Provider Page**](https://www.function.network/dashboard) – Manage your provider status and stake directly on the Dapp.
+📖 [**Docs**](./#for-compute-providers) – Learn how to set up and operate as a provider.\
+🔗 [**Provider Page**](./#for-compute-providers) – Manage your provider status and stake directly on the Dapp.
 
 ***
 
@@ -34,7 +34,7 @@ Contribute **compute power** and earn rewards by **providing AI inference resour
 
 Function Network empowers model creators to monetize their work opensource AI community. By publishing your models to the network, you can earn royalties, gain visiblity and secure funding to continue training your model.
 
-📖 [**Docs**](function-network/using-function-network/provide-a-model.md) – Learn how to provide a model to the network.\
+📖 [**Docs**](./#for-model-creators) – Learn how to provide a model to the network.\
 🔗 [**Models**](https://www.function.network/models) – View existing models on the network and provide your own permisonlessly.
 
 ***

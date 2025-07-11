@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # First Party Library Support
 
 Function Network APIs are available through our performant developer SDKs across multiple programming languages.
