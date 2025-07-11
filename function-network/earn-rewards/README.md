@@ -13,8 +13,8 @@ Usage and feedback from usage make Function Network better. Engage with decentra
 
 ### 🔬 **2. Develop & Earn**
 
-Build and deploy AI models **or** create first-party integrations using Function AI.\
-🔹 **How?** Fine-tune or train models for Function Network **OR** integrate Function AI into your application.\
+Build and deploy AI models **or** create first-party integrations using Function.\
+🔹 **How?** Fine-tune or train models for Function Network **OR** integrate Function into your application.\
 🔹 **What You Earn?** Get early access and premium tooling. During testnet, receive points. During mainnet, earn FUNC\*.\
 🔗 [**Learn More**](https://docs.function.network/protocol/rewards/develop)
 

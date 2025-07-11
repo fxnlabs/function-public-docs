@@ -8,7 +8,7 @@ Function Network is designed to **empower anyone** to contribute to and access *
 
 Access **powerful AI models** on a decentralized network, ensuring **scalability, privacy, and reliability**.
 
-🔗 [**Try Function Chat**](community-apps/function-chat.md) – Experience decentralized AI-powered chat.
+🔗 [**Try Function Chat**](community-apps/function-chat.md) – Experience decentralized AI-powered chat on the web and your mobile device.
 
 ***
 
@@ -17,7 +17,7 @@ Access **powerful AI models** on a decentralized network, ensuring **scalability
 Integrate **Function-powered AI inference** into your applications and dApps.
 
 📖 [**Docs**](developer-platform/README.md) – Explore APIs, SDKs, and integration guides.\
-🔗 [**Developer Platform**](https://https/platform.function.network/) – Start building with Function AI.
+🔗 [**Developer Platform**](https://https/platform.function.network/) – Start building with Function.
 
 ***
 
