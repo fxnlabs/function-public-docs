@@ -7,13 +7,13 @@ AI today sits behind closed doors: proprietary models, scarce compute, and centr
 * **Zero Creator Revenue**\
   Open source model authors publish to the world yet earn nothing. Every dollar goes to the hosting or application layer, leaving open-source contributions undervalued and unsustainable. As costs go up, there becomes an increasingly pressure to find private funding and ultimately close sourcing their model to fund their development.
 * **Poor Model Discoverability & Bootstrapping**\
-  Even the best models languish unseen: without a clear on-chain marketplace or incentive to spotlight high-quality work, providers won’t host them and developers can’t find or use them.
+  Even the best models languish unseen: without a clear on-chain marketplace or incentive to spotlight high-quality work, infrastructure providers won’t host them and therefore, developers can’t find or use them.
 * **Centralized Infrastructure & High Barriers to Entry**\
   Without a direct path to monetization, only large players backed by deep private funding can afford the massive investment in large datasets and compute fleets required for AI at scale. This centralizes control and stifles innovation due to more models becoming closed source.
 
 ### Our Solution: Democratize AI with Function Network
 
-1. **Model Marketplace**\
+1. **Tokenized Model Marketplace**\
    A unified, onchain registry where creators publish model metadata, weights, and transparent pricing for their IP.\
    Community ratings and usage statistics surface the best models and drive quality improvements.
 2. **Onchain Monetization**\
