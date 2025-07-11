@@ -5,7 +5,7 @@
 * [Overview](README.md)
 * [Using Function Network](function-network/using-function-network/README.md)
   * [Run a Node](function-network/using-function-network/node-operators/README.md)
-    * [Configuration](function-network/using-function-network/node-operators/configuration/README.md)
+    * [Configuration](function-network/using-function-network/node-operators/configuration.md)
       * [Config](function-network/using-function-network/node-operators/configuration/config.md)
       * [Model Backend](function-network/using-function-network/node-operators/configuration/model-backend.md)
     * [Hardware Requirement](function-network/using-function-network/node-operators/hardware-requirement.md)
