@@ -7,7 +7,7 @@ The `model_backend.yaml` file allows node operators to configure a specific mode
 ```yaml
 backend_provider: "custom" # "fxn", "custom", "vllm" or "ollama"
 url: "http://your-backend:8082" # required for "custom"
-fxn_id: "2" # required for "fxn"
+fxn_id: "2" # can be be found here https://www.function.network/models
 api_key: "your-api-key" # optional
 bearer_token: "your-bearer-token" # optional
 ```
@@ -31,6 +31,8 @@ The only avaliable provider currently supported is "custom".
 
 *   **Description**: The Function Network model ID to participate in
 *   **Type**: `string`
+
+The `fxn_id` for the model you want to participate in can be found [here](https://www.function.network/models)
 
 ### `api_key`
 
