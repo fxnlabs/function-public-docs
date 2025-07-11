@@ -8,8 +8,8 @@ AI today sits behind closed doors: proprietary models, scarce compute, and centr
   Model authors publish to the world yet earn nothing. Every dollar goes to the hosting or application layer, leaving open-source contributions undervalued and unsustainable.
 * **Poor Model Discoverability & Bootstrapping**\
   Even the best models languish unseen: without a clear on-chain marketplace or incentive to spotlight high-quality work, providers won’t host them and developers can’t find or use them.
-* **Unsustainable Hosting Costs**\
-  Serving inference at scale requires complex orchestration or costly cloud GPUs, putting small teams and individual creators out of reach and stalling innovation.
+* **Centralized Infrastructure & High Barriers to Entry**\
+  Without a direct path to monetization, only large players backed by deep private funding can afford the massive investment in large datasets and compute fleets required for AI at scale. This centralizes control and stifles innovation as it leads to closed source AI.
 
 ### Our Solution: Democratize AI with Function Network
 
