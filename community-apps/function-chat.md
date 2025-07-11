@@ -7,8 +7,8 @@ Function Chat is your gateway to **powerful AI conversations**, a decentralized 
 ## 🌐 **Access Function Chat**
 
 🔗 **Web**: [Web App](https://chat.function.network)\
-📱 **iOS (TestFlight)**: [Join here](https://testflight.apple.com/join/1xBXgDCk)\
-📲 **Android**: [Download APK](https://expo.dev/artifacts/eas/jVz3PfabMwq2SXigxPLLWy.apk)
+📱 **iOS:** [Apple Store](https://apps.apple.com/us/app/function-chat/id6737006521)\
+📲 **Android**: [Play store](https://play.google.com/store/apps/details?id=network.function.chat\&hl=en\&pli=1)
 
 <figure><img src="../.gitbook/assets/Screen Recording 2024-08-20 at 5.56.07 PM.gif" alt=""><figcaption><p>Example of user interaction with Function Chat UI</p></figcaption></figure>
 

@@ -9,27 +9,27 @@ The Function Network protocol enables a marketplace between users, developers an
 Usage and feedback from usage make Function Network better. Engage with decentralized AI through Function Chat and **earn points**.\
 🔹 **How?** Use the chat app for AI-powered assistance, brainstorming, or research.\
 🔹 **What You Earn?** During testnet, receive points. During mainnet, earn FUNC\*.\
-🔗 [**Learn More**](chat.md)
+🔗 [**Learn More**](broken-reference)
 
 ### 🔬 **2. Develop & Earn**
 
 Create first-party integrations using Function.\
 🔹 **How?** Integrate Function into your application.\
-🔹 **What You Earn?** Get early access and premium tooling. During testnet, receive points. During mainnet, earn FUNC*.\
-🔗 [**Learn More**](develop.md)
+🔹 **What You Earn?** Get early access and premium tooling. During testnet, receive points. During mainnet, earn FUNC\*.\
+🔗[ **Learn More**](broken-reference)
 
 ### 🔥 **3. Provide Compute & Earn**
 
 Contribute **GPU & compute power** to power decentralized AI inference.\
 🔹 **How?** Share your hardware to process AI workloads.\
-🔹 **What You Earn?** During testnet, receive points. During mainnet, earn FUNC*.\
-🔗 [**Learn More**](provide-compute.md)
+🔹 **What You Earn?** During testnet, receive points. During mainnet, earn FUNC\*.\
+🔗 [**Learn More**](../using-function-network/run-a-node.md)
 
 ### **4. Publish Models & Earn**
 
 Build and publish AI models.\
 🔹 **How?** Fine-tune or train models for Function Network.\
-🔹 **What You Earn?** Get early access and premium tooling. During testnet, receive points. During mainnet, earn FUNC*.\
+🔹 **What You Earn?** Get early access and premium tooling. During testnet, receive points. During mainnet, earn FUNC\*.\
 🔗 [**Learn More**](publish-models.md)
 
 ## **🚀 Start Earning with Function Network!**
