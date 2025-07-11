@@ -9,7 +9,7 @@ AI today sits behind closed doors: proprietary models, scarce compute, and centr
 * **Poor Model Discoverability & Bootstrapping**\
   Even the best models languish unseen: without a clear on-chain marketplace or incentive to spotlight high-quality work, providers won’t host them and developers can’t find or use them.
 * **Centralized Infrastructure & High Barriers to Entry**\
-  Without a direct path to monetization, only large players backed by deep private funding can afford the massive investment in large datasets and compute fleets required for AI at scale. This centralizes control and stifles innovation as it leads to closed source AI.
+  Without a direct path to monetization, only large players backed by deep private funding can afford the massive investment in large datasets and compute fleets required for AI at scale. This centralizes control and stifles innovation due to more models becoming closed source.
 
 ### Our Solution: Democratize AI with Function Network
 
