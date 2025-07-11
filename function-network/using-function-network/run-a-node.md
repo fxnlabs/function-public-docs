@@ -29,10 +29,13 @@ For users who prefer to use Docker, we provide images for different hardware con
         ```bash
         docker pull ghcr.io/fxnlabs/function-node:0.0.34-cuda
         ```
-    *   For **standard hardware**:
+    *   For **standard hardware (MACs, CPUs)**:
         ```bash
         docker pull ghcr.io/fxnlabs/function-node:0.0.34
         ```
+
+> **Note**: AMD GPU acceleration is on our roadmap and will be supported in a future release.
+
 2.  **Run the Docker Container**: Start a container with the image you pulled. This will start the node and give you your Node ID.
 3.  Proceed to stake your node as described in the "Getting Started" section.
 
