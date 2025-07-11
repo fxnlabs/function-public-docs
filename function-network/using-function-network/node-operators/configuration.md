@@ -4,9 +4,9 @@ This guide covers the essential commands and file structures for configuring and
 
 The Function node uses a set of configuration files located in the `~/.fxn` directory in your user's home folder.
 
-*   `~/.fxn/config.yaml`: The main configuration file for the node server.
-*   `~/.fxn/model_backend.yaml`: Configuration for the model backend
-*   `~/.fxn/nodekey.json`: Stores your node's private key.
+*   `config.yaml`: The main configuration file for the node server.
+*   `model_backend.yaml`: Configuration for the model backend
+*   `nodekey.json`: Stores your node's private key.
 
 ## Starting the Node
 
