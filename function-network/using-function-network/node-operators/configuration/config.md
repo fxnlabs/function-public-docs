@@ -20,6 +20,6 @@ node:
 
 ### `listenAddress`
 
-*   **Description**: The address on which the Function node will listen for incoming connections. Using `127.0.0.1` (localhost) is recommended for security, as it restricts access to the local machine. To allow external access, you can set this to `0.0.0.0`.
+*   **Description**: The address on which the Function node will listen for incoming connections. Using `127.0.0.1` (localhost) is recommended for security, as it restricts access to the local machine. To allow external access, you can set this to `0.0.0.0`. It is recommended that you expose the node through a reverse proxy, i.e NGINX or HAProxy
 *   **Default**: `"127.0.0.1"`
 *   **Type**: `string`
