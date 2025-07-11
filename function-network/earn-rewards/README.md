@@ -1,6 +1,6 @@
 # Earn Points
 
-The Function Network protocol enables a marketplace between users, developers and, compute providers. Importantly, it incentivizes all users in the ecosystem for contributing. Whether you **chat with AI, develop models, integrate applications, or provide compute power**, you can **unlock rewards** by helping realize the mission of Function Network.
+The Function Network protocol enables a marketplace between users, developers and, compute providers. Importantly, it incentivizes all users in the ecosystem for contributing. Whether you **chat with AI, develop AI applications, provide compute power, or publish models**, you can **unlock rewards** by helping realize the mission of Function Network.
 
 ## **🚀 Ways to Earn Rewards**
 
