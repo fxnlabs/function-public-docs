@@ -1,10 +1,10 @@
 # FAQs
 
-### What are the different ways to run a node?
+### Is the Function Node just a proxy?
 
-You can run a Function Network node in two ways:
-*   **As a standalone binary**: You can install and run the node directly on your machine.
-*   **Using Docker**: We provide Docker images for different hardware setups, including Nvidia GPUs (with CUDA) and standard hardware like Macs and other CPUs.
+No. While the current `"custom"` backend provider allows the node to act as a proxy to an existing model endpoint, this is just an interim solution to provide maximum flexibility. The long-term vision is a native, high-performance inference engine built for distributed inference.
+
+This engine will use techniques like pipeline parallelism, sharding, and a custom network transport to distribute the load of a single model across many nodes. This will allow the network to run massive models that no single operator could run on their own. You can read more about this in the [Model Backend Configuration](./configuration/model-backend.md#the-future-custom-inference-engine) documentation.
 
 ### How are rewards calculated?
 
@@ -17,12 +17,6 @@ The network has an on-chain entity known as the "scheduler" that enforces qualit
 ### How many models can a single node support?
 
 A single node should be dedicated to serving one model. Sharing a single node's resources across multiple models is not supported and can lead to poor performance. This prevents proper resource allocation, and the scheduler may jail and slash your stake as a result.
-
-### Is the Function Node just a proxy?
-
-No. While the current `"custom"` backend provider allows the node to act as a proxy to an existing model endpoint, this is just an interim solution to provide maximum flexibility. The long-term vision is a native, high-performance inference engine built for distributed inference.
-
-This engine will use techniques like pipeline parallelism, sharding, and a custom network transport to distribute the load of a single model across many nodes. This will allow the network to run massive models that no single operator could run on their own. You can read more about this in the [Model Backend Configuration](./configuration/model-backend.md#the-future-custom-inference-engine) documentation.
 
 ### Is the node software open source?
 

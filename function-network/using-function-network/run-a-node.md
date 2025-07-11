@@ -6,8 +6,9 @@ This guide will walk you through the process of setting up and running a Functio
 
 1.  **Get FUNC Tokens**: To stake your node, you'll need FUNC tokens. You can get testnet tokens from the [Function Network Faucet](https://www.function.network/faucet).
 2.  **Start the Node & Get Your Node ID**: Follow one of the guides below to start your node. When you start the node, it will output your unique Node ID.
-3.  **Review Best Practices**: Before staking your node, we recommend reviewing our [Best Practices](./best-practices.md) guide for tips on security and performance.
-4.  **Stake Your Node**: Once you have your Node ID and publicly accessible node URL, go to the [staking page](https://www.function.network/provide) to stake it on the network.
+3.  **Stake Your Node**: Once you have your Node ID and publicly accessible node URL, go to the [staking page](https://www.function.network/provide) to stake it on the network.
+
+> **Note**: Before staking your node, we recommend reviewing our [Best Practices](./best-practices.md) guide for tips on security and performance.
 
 ## Running as a Binary
 
