@@ -7,7 +7,7 @@
   * [Run a Node](function-network/using-function-network/node-operators/README.md)
     * [Configuration](function-network/using-function-network/node-operators/configuration.md)
     * [Hardware Requirement](function-network/using-function-network/node-operators/hardware-requirement.md)
-    * [Staking UI](function-network/using-function-network/node-operators/staking-ui.md)
+    * [Best Practices](function-network/using-function-network/node-operators/best-practices.md)
     * [FAQs](function-network/using-function-network/node-operators/faqs.md)
   * [Provide a model](function-network/using-function-network/provide-a-model.md)
 * [Tokenomics](function-network/tokenomics-and-fees/tokenomics.md)
