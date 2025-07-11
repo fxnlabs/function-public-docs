@@ -4,7 +4,7 @@
 
 * [Overview](README.md)
 * [Using Function Network](function-network/using-function-network/README.md)
-  * [Node Operators](function-network/using-function-network/node-operators.md)
+  * [Run a Node](function-network/using-function-network/run-a-node.md)
   * [Model Creators](function-network/using-function-network/model-creators.md)
 * [Tokenomics](function-network/tokenomics-and-fees/tokenomics.md)
 * [Earn Points](function-network/earn-rewards/README.md)
