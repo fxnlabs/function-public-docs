@@ -1,17 +1,15 @@
 # **Publish Models & Earn Rewards 🚀**
 
-Function Network enables users to **publish AI models** to the decentralized network. By contributing your models, you help expand the network's capabilities while **earning onchain rewards**.
+Function Network is a **decentralized AI infrastructure** where developers can **build, fine-tune, and deploy AI models**. Contribute to the ecosystem and **earn rewards**.
 
 ## **💡 How It Works**
 
-✅ **Publish AI Models** – Share your **AI models** with the Function Network.  
-✅ **Expand Network Capabilities** – Your model helps the Function flywheel continue to grow and empower more developers.
-✅ **Earn Onchain Rewards** – A portion of compute providers rewards are shared with you.
+✅ **Train & Deploy Models** – Contribute new AI models to Function Network.  
+✅ **Fine-Tune for Optimization** – Improve existing models for better efficiency and inference.  
+✅ **Scale with Decentralized Compute** – Deploy models to leverage the distributed AI infrastructure and earn a portion of compute provider rewards.
 
-## **🚀 Start Publishing Models & Earn!**
+## **🚀 Start Building & Earn Rewards!**
 
-By sharing your models, you become part of the **next-generation AI infrastructure**, helping Function Network scale while earning rewards.
+By contributing your AI models, you help shape the **future of decentralized AI** while gaining access to rewards.
 
-👉 **Start contributing today and earn rewards onchain!**
-
-🔗 **Get Started:** [Function Network Dapp](#) (Currently not live)
+� **Get Started:** [Function Network Developer Portal](https://platform.function.network/)

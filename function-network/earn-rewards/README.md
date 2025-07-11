@@ -13,17 +13,24 @@ Usage and feedback from usage make Function Network better. Engage with decentra
 
 ### 🔬 **2. Develop & Earn**
 
-Build and deploy AI models **or** create first-party integrations using Function.\
-🔹 **How?** Fine-tune or train models for Function Network **OR** integrate Function into your application.\
-🔹 **What You Earn?** Get early access and premium tooling. During testnet, receive points. During mainnet, earn FUNC\*.\
-🔗 [**Learn More**](https://docs.function.network/protocol/rewards/develop)
+Create first-party integrations using Function.
+🔹 **How?** Integrate Function into your application.
+🔹 **What You Earn?** Get early access and premium tooling. During testnet, receive points. During mainnet, earn FUNC*.
+🔗 [**Learn More**](develop.md)
 
 ### 🔥 **3. Provide Compute & Earn**
 
-Contribute **GPU & compute power** to power decentralized AI inference.\
-🔹 **How?** Share your hardware to process AI workloads.\
-🔹 **What You Earn?** During testnet, receive points. During mainnet, earn FUNC\*.\
-🔗 [**Learn More**](https://docs.function.network/protocol/rewards/provide)
+Contribute **GPU & compute power** to power decentralized AI inference.
+🔹 **How?** Share your hardware to process AI workloads.
+🔹 **What You Earn?** During testnet, receive points. During mainnet, earn FUNC*.
+🔗 [**Learn More**](provide-compute.md)
+
+### **4. Publish Models & Earn**
+
+Build and deploy AI models.
+🔹 **How?** Fine-tune or train models for Function Network.
+🔹 **What You Earn?** Get early access and premium tooling. During testnet, receive points. During mainnet, earn FUNC*.
+🔗 [**Learn More**](publish-models.md)
 
 ## **🚀 Start Earning with Function Network!**
 
