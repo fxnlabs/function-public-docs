@@ -5,7 +5,7 @@ AI today sits behind closed doors: proprietary models, scarce compute, and centr
 ### The Problem: Open-Source AI Isn’t Accessible for All
 
 * **Zero Creator Revenue**\
-  Model authors publish to the world yet earn nothing. Every dollar goes to the hosting or application layer, leaving open-source contributions undervalued and unsustainable.
+  Open source model authors publish to the world yet earn nothing. Every dollar goes to the hosting or application layer, leaving open-source contributions undervalued and unsustainable. As costs go up, there becomes an increasingly pressure to find private funding and ultimately close sourcing their model to continue developing models.
 * **Poor Model Discoverability & Bootstrapping**\
   Even the best models languish unseen: without a clear on-chain marketplace or incentive to spotlight high-quality work, providers won’t host them and developers can’t find or use them.
 * **Centralized Infrastructure & High Barriers to Entry**\
