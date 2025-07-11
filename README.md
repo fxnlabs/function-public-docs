@@ -33,7 +33,7 @@ Every protocol action is powered by **FUNC**:
 
 * **Developers** deposit FUNC to reserve inference capacity and pay per request.
 * **Compute Providers** stake FUNC to signal reliability, host models, and collect fees for each inference shard served.
-* **Model Creators** receive an onchain royalty split every time their model is invoked, turning downloads into recurring income.
+* **Model Creators** receive an onchain royalty split every time their model is invoked, turning traffic into recurring income.
 
 ### The Function Flywheel
 
