@@ -26,8 +26,6 @@ For a more interactive experience with easier debugging and state monitoring, yo
 fxn start --tui
 ```
 
----
-
 ## Account Management
 
 Before starting a node, you need to generate a node key. This key is used to identify your node on the Function Network.
@@ -49,8 +47,6 @@ To display your existing node key and address, use:
 ```bash
 fxn account show
 ```
-
----
 
 ## Configuration Details
 For a detailed breakdown of the configuration options, please see the following sections:
