@@ -6,7 +6,7 @@ This guide will walk you through the process of setting up and running a Functio
 
 Regardless of how you choose to run the node, there are three initial steps to get started:
 
-1. **Get FUNC Tokens**: To stake your node, you'll need FUNC tokens. You can get testnet tokens from the [Function Network Faucet](https://www.function.network/faucet).
+1. **Get FUNC Tokens**: To stake your node, you'll need FUNC tokens and Base Sepolia ETH. You can get testnet tokens from the our[ Faucet](https://www.function.network/faucet) and Base Sepolia ETH [from various faucets. ](https://docs.base.org/base-chain/tools/network-faucets)
 2. **Start the Node & Get Your Node ID**: Follow one of the guides below to start your node. When you start the node, it will output your unique Node ID.
 3. **Stake Your Node**: Once you have your Node ID, go to the [staking page](https://www.function.network/provide) to stake it on the network.
 
