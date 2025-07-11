@@ -1,7 +1,5 @@
 # Run a Node
 
-## Node Operators
-
 This guide will walk you through the process of setting up and running a Function Network node. You can run a node either as a standalone binary or using Docker.
 
 ### Getting Started
