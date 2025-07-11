@@ -33,6 +33,14 @@ AI models define the computational workloads to be executed on the network. Each
 * Specifies computational requirements like shards and compute units.
 * Requires providers to stake FUNC to support them.
 
+## **Model Creators**
+
+Model creators are responsible for bringing AI models on-chain. They:
+
+*   **Publish Models**: Register models on the Function Network, making them available for compute providers to host.
+*   **Earn Revenue**: Receive a share of the revenue generated when their models are used.
+*   **Expand Reach**: Gain access to a decentralized network of compute and a growing user base.
+
 ## **Router**
 
 The Router acts as the central management hub, connecting providers, gateways, models, and other core components.
