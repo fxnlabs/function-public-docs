@@ -1,6 +1,6 @@
 # Using Function Network
 
-Function Network is designed to **empower anyone** to contribute to and access **decentralized AI inference**. Whether you're a **compute provider, inference user, or developer**, the network offers a seamless way to **earn, interact, and build.**
+Function Network is designed to **empower anyone** to contribute to and access **decentralized AI inference**. Whether you're a **AI User, developer, compute porvider, or model creator**, the network offers a seamless way to **earn, interact, and build.**
 
 ***
 
