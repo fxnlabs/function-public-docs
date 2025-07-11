@@ -19,10 +19,9 @@ AI today sits behind closed doors: proprietary models, scarce compute, and centr
 2. **Onchain Monetization**\
    Usage fees and royalties are settled instantly in FUNC tokens.\
    Fine-grained payout rules let creators set per-model or per-endpoint rates, while providers earn proportional to compute delivered.
-3. **Sharded Inference**\
+3. **Distributed infrastructure**\
    Break large inference jobs into parallel shards distributed across any GPU provider (from RTX 30-series to datacenter GPUs).\
-   Dynamic load-balancing and redundancy guarantee low latency, high throughput, and resilient uptime.
-4. **Managed Infrastructure & SLAs**\
+   Dynamic load-balancing and redundancy guarantee low latency, high throughput, and resilient uptime.\
    End-to-end orchestration, monitoring, and failover are enforced by smart contracts.\
    Providers commit SLAs onchain: missed targets trigger automated penalties and re-allocation.
 
