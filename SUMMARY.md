@@ -14,7 +14,7 @@
   * [Chat](function-network/earn-rewards/chat.md)
   * [Develop](function-network/earn-rewards/develop.md)
   * [Provide](function-network/earn-rewards/provide.md)
-* [Contracts](function-network/contracts/README.md)
+* [Smart Contracts](function-network/contracts/README.md)
   * [Router.sol](function-network/contracts/ROUTER.md)
   * [EpochController.sol](function-network/contracts/EPOCHCONTROLLER.md)
   * [GatewayRegistry.sol](function-network/contracts/GATEWAYREGISTRY.md)
