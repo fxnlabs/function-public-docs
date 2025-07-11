@@ -20,7 +20,7 @@ bearer_token: "your-bearer-token" # optional
 *   **Options**: `"fxn"`, `"custom"`, `"vllm"`, `"ollama"`
 *   **Type**: `string`
 
-The only avaliable provider currently supported is "custom".
+While `"custom"` is the primary supported provider for now, we are actively developing a native Function Network inference engine. See "The Future: Custom Inference Engine" below for more details.
 
 ### `url`
 
@@ -43,3 +43,17 @@ The `fxn_id` for the model you want to participate in can be found [here](https:
 
 *   **Description**: Your bearer token for authentication (optional).
 *   **Type**: `string`
+
+## The Future: Custom Inference Engine
+
+While the current `"custom"` backend provider allows the node to act as a proxy to any existing model endpoint, this is an interim solution. We are actively developing a native, high-performance inference engine that will become the standard for the Function Network.
+
+This upcoming engine is being built from the ground up for true, distributed inference. It will feature advanced optimizations such as:
+
+*   **Pipeline Parallelism**: Processing different stages of inference simultaneously across multiple nodes.
+*   **Sharding**: Splitting a model into smaller pieces (shards or layers) that are distributed across the network.
+*   **Custom Network Transport**: A highly optimized network layer to reduce unnecessary data transfer between nodes, ensuring the most efficient communication for distributed inference.
+
+Eventually, this means a single node will only need to hold and compute one shard of a model, rather than the entire model. This distributed approach will significantly lower the hardware barrier for node operators and enable the network to run much larger and more powerful models collectively.
+
+This custom engine is a core part of our roadmap and will become the default inference backend as it becomes available. In the meantime, the `"custom"` provider offers the flexibility to connect to any inference engine you choose to run.
