@@ -9,7 +9,7 @@ Function Chat is a **decentralized AI-powered chat application** that rewards yo
 ✅ **Decentralized & Transparent** – Function Chat runs on a **distributed AI infrastructure**, ensuring efficiency and fairness.\
 ✅ **No Extra Steps** – Just use the app as you normally would, your activity automatically counts toward eligibility.
 
-## **🚀 Start Using Function Chat & Earn Points!**
+## **🚀 Start Chatting & Earn Points!**
 
 The future of AI is decentralized, and you’re part of it. Just **chat with AI, contribute to the ecosystem, and earn points,** no complicated steps required.
 

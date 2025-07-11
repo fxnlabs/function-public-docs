@@ -8,7 +8,7 @@ Function Network enables users to **contribute GPU and compute resources** to po
 ✅ **Power AI Inference** – Your hardware helps run AI models efficiently in a decentralized system.
 ✅ **Earn Onchain Points** – Get points for your contribution.  The more you provide, the higher your chance of receiving points.
 
-## **🚀 Start Providing Compute & Earn!**
+## **🚀 Start Providing & Earn Points!**
 
 By sharing your computing power, you become part of the **next-generation AI infrastructure**, helping Function Network scale while earning points.
 

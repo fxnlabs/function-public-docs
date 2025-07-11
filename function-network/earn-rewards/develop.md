@@ -8,7 +8,7 @@ Function Network is a **decentralized AI infrastructure** where developers can c
 ✅ **Develop AI-Powered Tools** – Extend Function Network with new use cases, from chatbots to analytics.  
 ✅ **Enhance the Ecosystem** – Help expand the adoption of decentralized AI by integrating Function into real-world applications.
 
-## **🚀 Start Building & Earn Points!**
+## **🚀 Start Developing & Earn Points!**
 
 By integrating with Function Network, you help shape the **future of decentralized AI** while gaining access to points.
 
