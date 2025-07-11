@@ -8,7 +8,7 @@ Function Network is designed to **empower anyone** to contribute to and access *
 
 Access **powerful AI models** on a decentralized network, ensuring **scalability, privacy, and reliability**.
 
-📖 [**AI Users Docs**](using-function-network/inference.md) – Get started with running AI inference.\
+📖 [**AI Users Docs**](inference.md) – Get started with running AI inference.\
 🔗 [**Try Function Chat**](https://chat.function.network/) – Experience decentralized AI-powered chat.
 
 ***
@@ -17,7 +17,7 @@ Access **powerful AI models** on a decentralized network, ensuring **scalability
 
 Integrate **Function-powered AI inference** into your applications and dApps.
 
-📖 [**Developer Docs**](broken-reference/) – Explore APIs, SDKs, and integration guides.\
+📖 [**Developer Docs**](../broken-reference/) – Explore APIs, SDKs, and integration guides.\
 🔗 [**Developer Platform**](https://https/platform.function.network/) – Start building with Function AI.
 
 ***
@@ -26,8 +26,8 @@ Integrate **Function-powered AI inference** into your applications and dApps.
 
 Contribute **compute power** and earn rewards by **providing AI inference resources**.
 
-📖 [**Provider Docs**](broken-reference/) – Learn how to set up and operate as a provider.\
-🔗 [**Function Network Provider Page**](using-function-network.md) – Manage your provider status and stake directly on the Dapp. (Currently not live)
+📖 [**Provider Docs**](../broken-reference/) – Learn how to set up and operate as a provider.\
+🔗 [**Function Network Provider Page**](./) – Manage your provider status and stake directly on the Dapp. (Currently not live)
 
 ***
 

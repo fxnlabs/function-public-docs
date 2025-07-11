@@ -3,8 +3,9 @@
 ## Function Network
 
 * [Overview](README.md)
-  * [About Function](function-network/readme/about-function.md)
-* [Using Function Network](function-network/using-function-network.md)
+* [Using Function Network](function-network/using-function-network/README.md)
+  * [Node Operators](function-network/using-function-network/node-operators.md)
+  * [Model Creators](function-network/using-function-network/model-creators.md)
 * [Tokenomics](function-network/tokenomics-and-fees/tokenomics.md)
 * [Earn Points](function-network/earn-rewards/README.md)
   * [Chat](function-network/earn-rewards/chat.md)
