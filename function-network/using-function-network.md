@@ -4,15 +4,6 @@ Function Network is designed to **empower anyone** to contribute to and access *
 
 ***
 
-## 🖥️ **For Compute Providers**
-
-Contribute **compute power** and earn rewards by **providing AI inference resources**.
-
-📖 [**Provider Docs**](broken-reference) – Learn how to set up and operate as a provider.\
-🔗 [**Function Network Provider Page**](using-function-network.md) – Manage your provider status and stake directly on the Dapp. (Currently not live)
-
-***
-
 ## 🤖 **For AI Users**
 
 Access **powerful AI models** on a decentralized network, ensuring **scalability, privacy, and reliability**.
@@ -28,6 +19,15 @@ Integrate **Function-powered AI inference** into your applications and dApps.
 
 📖 [**Developer Docs**](broken-reference) – Explore APIs, SDKs, and integration guides.\
 🔗 [**Developer Platform**](https://https/platform.function.network/) – Start building with Function AI.
+
+***
+
+## 🖥️ **For Compute Providers**
+
+Contribute **compute power** and earn rewards by **providing AI inference resources**.
+
+📖 [**Provider Docs**](broken-reference) – Learn how to set up and operate as a provider.\
+🔗 [**Function Network Provider Page**](using-function-network.md) – Manage your provider status and stake directly on the Dapp. (Currently not live)
 
 ***
 
