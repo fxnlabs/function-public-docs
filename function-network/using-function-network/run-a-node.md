@@ -2,13 +2,12 @@
 
 This guide will walk you through the process of setting up and running a Function Network node. You can run a node either as a standalone binary or using Docker.
 
-## Getting Started
-
-Regardless of how you choose to run the node, there are three initial steps to get started:
+## Quick Start
 
 1.  **Get FUNC Tokens**: To stake your node, you'll need FUNC tokens. You can get testnet tokens from the [Function Network Faucet](https://www.function.network/faucet).
 2.  **Start the Node & Get Your Node ID**: Follow one of the guides below to start your node. When you start the node, it will output your unique Node ID.
-3.  **Stake Your Node**: Once you have your Node ID, go to the [staking page](https://www.function.network/provide) to stake it on the network.
+3.  **Expose your node through NGINX or HAProxy**: The node listens on `localhost`. Our staking UI requires a publicly accessible URL to reach your node.
+3.  **Stake Your Node**: Once you have your Node ID and publicly accessible node URL, go to the [staking page](https://www.function.network/provide) to stake it on the network.
 
 ## Running as a Binary
 
