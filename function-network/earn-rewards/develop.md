@@ -16,16 +16,8 @@ Function Network is a **decentralized AI infrastructure** where developers can *
 ✅ **Develop AI-Powered Tools** – Extend Function Network with new use cases, from chatbots to analytics.  
 ✅ **Enhance the Ecosystem** – Help expand the adoption of decentralized AI by integrating Function into real-world applications.
 
-## **🎁 What You Can Earn**
-
-🔹 **Exclusive rewards** – Receive **future rewards** for contributing AI models or integrations.  
-🔹 **Monetization Opportunities** – Get access to **network-based incentives and revenue-sharing**.  
-🔹 **Developer Perks** – Early access to **new AI tooling, integrations, and governance participation**.
-
 ## **🚀 Start Building & Earn Rewards!**
 
-By contributing your AI models or integrating with Function Network, you help shape the **future of decentralized AI** while gaining access to **network rewards**.
-
-👉 **Start developing today and earn eligibility for rewards!**
+By contributing your AI models or integrating with Function Network, you help shape the **future of decentralized AI** while gaining access to rewards.
 
 🔗 **Get Started:** [Function Network Developer Portal](https://platform.function.network/)
