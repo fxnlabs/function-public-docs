@@ -14,33 +14,28 @@ Regardless of how you choose to run the node, there are three initial steps to g
 
 For users who prefer to run the node directly on their machine:
 
-1.  **Install and Start the Node**: Use the following command to install and start the node. This will also provide your Node ID.
+Use the following command to install and start the node. This will also provide your Node ID.
 
-    ```bash
-    brew tap fxnlabs/homebrew-tap && ./fxn start --tui
-    ```
-2. Proceed to stake your node as described in the "Getting Started" section.
+```bash
+    brew tap fxnlabs/homebrew-tap && fxn start --tui
+```
 
 ### Running with Docker
 
 For users who prefer to use Docker, we provide images for different hardware configurations.
 
-1. **Pull the Docker Image**:
-   *   For **Nvidia GPUs (CUDA acceleration)**:
+* For **Nvidia GPUs (CUDA acceleration)**:
 
        ```bash
        docker pull ghcr.io/fxnlabs/function-node:0.0.34-cuda
        ```
-   *   For **standard hardware (MACs, CPUs)**:
+* For **standard hardware (MACs, CPUs)**:
 
        ```bash
        docker pull ghcr.io/fxnlabs/function-node:0.0.34
        ```
 
 > **Note**: AMD GPU acceleration is on our roadmap and will be supported in a future release.
-
-2. **Run the Docker Container**: Start a container with the image you pulled. This will start the node and give you your Node ID.
-3. Proceed to stake your node as described in the "Getting Started" section.
 
 ### Open Source
 

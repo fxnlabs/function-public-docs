@@ -16,7 +16,7 @@ For users who prefer to run the node directly on their machine:
 
 1.  **Install and Start the Node**: Use the following command to install and start the node. This will also provide your Node ID.
     ```bash
-    brew tap fxnlabs/homebrew-tap && ./fxn start --tui
+    brew tap fxnlabs/homebrew-tap && fxn start --tui
     ```
 2.  Proceed to stake your node as described in the "Getting Started" section.
 
