@@ -27,11 +27,11 @@ For users who prefer to use Docker, we provide images for different hardware con
 1.  **Pull the Docker Image**:
     *   For **Nvidia GPUs (CUDA acceleration)**:
         ```bash
-        docker pull ghcr.io/fxnlabs/function-node:0.0.34-cuda
+        docker pull ghcr.io/fxnlabs/function-node:0.1.1-cuda
         ```
     *   For **standard hardware (MACs, CPUs)**:
         ```bash
-        docker pull ghcr.io/fxnlabs/function-node:0.0.34
+        docker pull ghcr.io/fxnlabs/function-node:0.1.1
         ```
 
 > **Note**: AMD GPU acceleration is on our roadmap and will be supported in a future release.
