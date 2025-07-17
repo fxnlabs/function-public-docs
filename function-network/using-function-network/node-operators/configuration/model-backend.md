@@ -47,7 +47,7 @@ The `fxnId` for the model you want to participate in can be found [here](https:/
 
 ### `modelNameAlias`
 
-*   **Description**: Your backend may reference the model name differently in OpenAI requests. So this allows you to specify the mapping between Function's model name and your backend model name via an alias.
+*   **Description**: Your backend may reference the model name differently in OpenAI requests in comparsion to what's onchain. So this allows you to specify the mapping between Function's model name and your backend model name via an alias.
 *   **Type**: `string`
 
 ## The Future: Custom Inference Engine
