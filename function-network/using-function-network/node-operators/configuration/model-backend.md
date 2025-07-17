@@ -5,16 +5,17 @@ The `model_backend.yaml` file allows node operators to configure a specific mode
 ## Template
 
 ```yaml
-backend_provider: "custom" # "fxn", "custom", "vllm" or "ollama"
+backendProvider: "custom" # "fxn", "custom", "vllm" or "ollama"
 url: "http://your-backend:8082" # required for "custom"
-fxn_id: "2" # can be be found here https://www.function.network/models
-api_key: "your-api-key" # optional
-bearer_token: "your-bearer-token" # optional
+fxnId: "2" # can be be found here https://www.function.network/models
+apiKey: "your-api-key" # optional
+bearerToken: "your-bearer-token" # optional
+modelNameAlias: "your-model-name-alias" # optional
 ```
 
 ## Parameters
 
-### `backend_provider`
+### `backendProvider`
 
 *   **Description**: Specifies the type of backend provider.
 *   **Options**: `"fxn"`, `"custom"`, `"vllm"`, `"ollama"`
@@ -24,24 +25,29 @@ While `"custom"` is the primary supported provider for now, we are actively deve
 
 ### `url`
 
-*   **Description**: The URL of your custom backend. This is required when `backend_provider` is set to `"custom"`.
+*   **Description**: The URL of your custom backend. This is required when `backendProvider` is set to `"custom"`.
 *   **Type**: `string`
 
-### `fxn_id`
+### `fxnId`
 
 *   **Description**: The Function Network model ID to participate in
 *   **Type**: `string`
 
-The `fxn_id` for the model you want to participate in can be found [here](https://www.function.network/models)
+The `fxnId` for the model you want to participate in can be found [here](https://www.function.network/models)
 
-### `api_key`
+### `apiKey`
 
 *   **Description**: Your API key for the backend service (optional).
 *   **Type**: `string`
 
-### `bearer_token`
+### `bearerToken`
 
 *   **Description**: Your bearer token for authentication (optional).
+*   **Type**: `string`
+
+### `modelNameAlias`
+
+*   **Description**: Your backend may reference the model name differently in OpenAI requests. So this allows you to specify the mapping between Function's model name and your backend model name via an alias.
 *   **Type**: `string`
 
 ## The Future: Custom Inference Engine
