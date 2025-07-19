@@ -1,77 +1,41 @@
-# Function Network: The Future of Decentralized AI
+# Function Network: Pioneering the Future of Decentralized AI
 
-AI is transforming the world—but today, it remains **locked behind walled gardens**, controlled by a handful of tech giants. Compute is scarce. Models are proprietary. Access is restricted.
+Artificial intelligence is reshaping the world, driving innovation across industries and redefining how we interact with technology. Yet, despite its transformative potential, AI remains largely confined within the walled gardens of a few tech giants. Compute resources are scarce, models are proprietary, and access is tightly controlled. Function Network is breaking these barriers to create a future where AI is open, decentralized, and accessible to all.
 
-**Function Network is here to change that.**
+Our vision is bold: a global, permissionless ecosystem where anyone can contribute compute power, access cutting-edge AI models, and participate in a network free from centralized control. By leveraging blockchain technology to connect compute providers, gateways, and AI models, Function Network is laying the foundation for a new era of AI—one that is equitable, transparent, and unstoppable.
 
-We envision a future where AI is **open, decentralized, and permissionless**—where **anyone can contribute**, **anyone can access**, and **no one can control** the flow of intelligence.
+## A Roadmap to a Decentralized AI Economy
 
-By **connecting compute providers, gateways, and AI models in a seamless, blockchain-powered network**, we are building the foundation for the **next era of AI**—one that is truly **global, fair, and unstoppable.**
+Function Network's journey to redefine AI is structured in three phases: laying the foundation, unlocking the ecosystem, and building an autonomous, community-driven network. Each phase builds on the last, creating a robust infrastructure for decentralized intelligence.
 
----
+### Laying the Foundation (1–6 Months)
 
-## 🚀 Roadmap for a Decentralized AI Economy
+In the initial phase, Function Network is focused on establishing a robust and scalable testnet to demonstrate the platform's capabilities. The testnet launch will showcase the network's ability to deliver seamless, decentralized AI inference. To ensure security and performance, we will introduce **incentivized testing programs**, rewarding early participants for stress-testing the system and identifying potential vulnerabilities. These efforts will help refine the network and build trust among users and contributors.
 
-### **🌱 Short-Term (1–6 Months): Laying the Foundation**
+To democratize access to AI, we are opening provider registration to a **wide range of participants**, from individuals with consumer-grade GPUs to enterprises with high-performance compute resources. Contributors will earn rewards for sharing their compute power, fostering a vibrant ecosystem of providers. Simultaneously, we are enhancing our consumer platform to make AI inference more accessible. This includes developer-friendly SDKs and streamlined integrations, enabling real-world applications to leverage Function Network's capabilities with ease.
 
-1. **Testnet Launch Ceremony**
+A key component of this phase is the introduction of an intuitive dashboard for compute providers and users. This[ dashboard offers](https://www.function.network/overview) real-time insights into contributions, earnings, and governance participation, empowering users to manage their interactions with the network effortlessly. By making staking and rewards tracking seamless, we aim to create a user experience that is both accessible and rewarding. 
 
-   - Deploy the **inaugural testnet ceremony**, featuring a high-performance AI model to showcase network capabilities. (Coming soon...)
-   - **Incentivized testing & security bounties**, rewarding early participants for stress-testing, reporting issues, and optimizing performance.
+### Unlocking the Ecosystem (6–12 Months)
 
-2. **Breaking Barriers to Entry**
+As Function Network matures, we will transition to the **mainnet launch on Base**, marking a significant milestone in our journey. The mainnet will support over 40 open-source AI models, enabling developers and users to access a diverse range of tools for building innovative applications. To celebrate this milestone, we plan to distribute rewards to points holders, fostering a sense of ownership and encouraging active participation in the network's growth.
 
-   - Open **provider registration**, allowing both consumer-grade and enterprise GPUs to contribute and earn rewards.
-   - Enhance the **consumer platform**, improving AI inference access, developer SDKs, and streamlined integration for real-world applications.
+This phase will also **bridge the worlds of Web3 and AI**, creating new opportunities for both decentralized and centralized applications. By enabling FUNC token staking for AI inference, users can prepay for access to AI services through decentralized compute pools, ensuring cost-effective and scalable solutions. Additionally, we will release developer tools and SDKs to simplify the integration of Function-powered AI into applications, smart contracts, and open-source projects, empowering developers to build the next generation of decentralized applications.
 
-3. **AI Compute for Everyone**
-   - Seamless **staking & rewards tracking**, providing real-time insights into contributions, earnings, and governance participation.
-   - Launch an **intuitive dashboard**, offering compute providers and users an easy way to manage their AI interactions.
+### Building the Autonomous AI Network (12+ Months and Beyond)
 
----
+Looking to the future, Function Network aspires to create a self-sustaining, community-governed ecosystem that redefines how AI is developed, accessed, and governed. A cornerstone of this vision is decentralized governance, where FUNC **token holders will have the power to shape the network** through parameters, such as epoch length, staking requirements, and reward structures. A transparent proposal system will enable open community decision-making, ensuring that the network evolves in alignment with its users' needs and values.
 
-### **🔧 Medium-Term (6–12 Months): Unlocking the Ecosystem**
+To make AI a public utility, we will launch a decentralized **AI model marketplace** where developers can upload, share, and monetize their models. This marketplace will foster innovation by providing a platform for creators to distribute their work and for users to access a diverse array of AI tools without relying on centralized intermediaries. Functioning inference APIs will further streamline access, enabling seamless integration of AI capabilities into a wide range of applications.
 
-1. **Mainnet Launch Ceremony**
+Privacy is a critical concern in the AI landscape, and Function Network is committed to addressing it. By introducing **zero-knowledge proofs** for AI inference, we will allow users to run models on private data without exposing sensitive information. Secure **multiparty computation** will further enhance privacy, enabling fully private AI workflows that protect user data while delivering powerful results.
 
-- Deploy the the protocol to **mainnet on base network**, supporting over 40+ open source models.
-- Rewards for points holders, and starting the journey of **decentralized user-owned AI**.
+To ensure the network's sustainability, we will implement **dynamic incentive models** that automatically adjust rewards based on demand, compute availability, and participation levels. Additionally, an autonomous AI model selection process will empower the community to prioritize models that align with the network's goals, ensuring that the most valuable and innovative tools rise to prominence.
 
-2. **Bridging Web3 & AI**
-   - Enable **FUNC staking for AI inference**, where users can **prepay for AI access using decentralized pools**.
-   - Launch **developer tools and SDKs** to integrate Function-powered AI into **dApps, smart contracts, and open-source applications**.
+## A Future Where AI Belongs to Everyone
 
----
+AI is the most powerful technology of our generation, with the potential to solve some of humanity's greatest challenges. But its impact depends on who controls it. At Function Network, we believe that AI should not be the privilege of a few but a resource available to all. Our mission is to create an ecosystem where compute is abundant, AI is open, and intelligence is a shared right.
 
-### **🌐 Long-Term (12+ Months & Beyond): The Autonomous AI Network**
+By building a decentralized, permissionless network, we are empowering individuals, developers, and organizations to contribute to and benefit from the AI revolution. Function Network is more than a platform—it is a movement to reshape the future of machine intelligence, ensuring that it serves the many, not the few.
 
-1. **Decentralizing AI Governance**
-
-   - Give **FUNC holders control** over network parameters like **epoch length, staking requirements, and rewards**.
-   - Launch a **transparent proposal system** for **open community decision-making**.
-
-2. **AI as a Public Utility**
-
-   - Build a **decentralized AI model marketplace**, where developers can **upload, share, and monetize their AI models**.
-   - Create **functioning inference APIs** that allow **seamless AI access without central intermediaries**.
-
-3. **Privacy-Preserving AI (Zero-Knowledge Intelligence)**
-
-   - Introduce **zk-proofs for AI inference**, allowing **users to run models on private data without exposing it**.
-   - Implement **secure multiparty computation (MPC)** for **fully private AI workflows**.
-
-4. **A Self-Regulating AI Network**
-   - Implement **dynamic incentive models** where rewards **automatically adjust** based on **demand, compute availability, and participation**.
-   - Introduce **autonomous AI model selection**, where the **community decides which models are prioritized**.
-
----
-
-### **🏆 A Future Where AI Belongs to Everyone**
-
-AI is the most powerful technology of our generation—**but who controls it will define the future.**
-
-We refuse to let AI remain in the hands of a few.
-
-With **Function Network**, we are building an ecosystem where **compute is accessible, AI is open, and intelligence is free.** A world where **anyone can contribute, anyone can access, and no one can control** the future of machine intelligence.
-
-🚀 Join us in shaping the **new era of AI**—where intelligence is not a service, but a **right.**
+Join us in this journey to create a world where intelligence is not a service but a fundamental right. Together, we can build an AI ecosystem that is accessible, equitable, and unstoppable.
