@@ -19,7 +19,6 @@ The simplest and most direct way to contribute is by using Function's tools, lik
 ### Develop & Earn
 
 Developers are the driver of the Function Network's revenue. They use Function to power AI applications. Integrate Function into your dApp or application to give your users access to powerful, decentralized AI. Early integrators may receive enhanced access, dedicated support, and premium tooling.
-
 [**Learn More**](develop.md)
 
 ### Provide Compute & Earn
@@ -28,16 +27,16 @@ Decentralized AI relies on a distributed, global network of compute resources. B
 
 Contribute **GPU and compute power** to support decentralized AI inference.
 - **How?** Share your hardware to process AI workloads.
-- **What You Earn?** During the testnet, you'll receive points. During the mainnet, you’ll earn FUNC*.  
-[**Learn More**](provide-compute.md)
+- **What You Earn?** During the testnet, you'll receive points. During the mainnet, you’ll earn FUNC*.
+- [**Learn More**](provide-compute.md)
 
 ### Publish Models & Earn
 
 The network needs a diverse range of high-quality AI models. Contribute by fine-tuning existing models or training new ones specifically for the Function Network's decentralized environment.
 
 - **How?** Fine-tune or train models for the Function Network.
-- **What You Earn?** Gain early access and premium tools. During the testnet, you'll receive points. During the mainnet, you’ll earn FUNC*.  
-[**Learn More**](publish-models.md)
+- **What You Earn?** Gain early access and premium tools. During the testnet, you'll receive points. During the mainnet, you’ll earn FUNC*.
+- [**Learn More**](publish-models.md)
 
 ## Start Earning with Function Network!
 
