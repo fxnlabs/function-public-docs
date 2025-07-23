@@ -6,6 +6,7 @@ The Function Network protocol enables a marketplace between users, developers an
 
 ### 🗨️ **1. Chat to Earn**
 
+
 Usage and feedback from usage make Function Network better. Engage with decentralized AI through Function Chat and **earn points**.\
 🔹 **How?** Use the chat app for AI-powered assistance, brainstorming, or research.\
 🔹 **What You Earn?** During testnet, receive points. During mainnet, earn FUNC\*.\
@@ -37,5 +38,6 @@ Build and publish AI models.\
 The more you **chat, develop, provide, or publish**, the more you **earn points**. Whether you're a user, developer, or infrastructure provider, there's a way for you to participate in the decentralized AI revolution.
 
 👉 **Get started and earn points today!** 🚀
+
 
 \*For additional details, please see our [Terms & Conditions](https://www.function.network/tos.txt).
