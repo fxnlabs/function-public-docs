@@ -1,3 +1,4 @@
+
 # Function Network: Pioneering the Future of Decentralized AI
 
 Artificial intelligence is reshaping the world, driving innovation across industries and redefining how we interact with technology. Yet, despite its transformative potential, AI remains largely confined within the walled gardens of a few tech giants. Compute resources are scarce, models are proprietary, and access is tightly controlled. Function Network is breaking these barriers to create a future where AI is open, decentralized, and accessible to all.
@@ -9,6 +10,7 @@ Our vision is bold: a global, permissionless ecosystem where anyone can contribu
 Function Network's journey to redefine AI is structured in three phases: laying the foundation, unlocking the ecosystem, and building an autonomous, community-driven network. Each phase builds on the last, creating a robust infrastructure for decentralized intelligence.
 
 ### Laying the Foundation (1–6 Months)
+
 
 In the initial phase, Function Network is focused on establishing a robust and scalable testnet to demonstrate the platform's capabilities. The testnet launch will showcase the network's ability to deliver seamless, decentralized AI inference. To ensure security and performance, we will introduce **incentivized testing programs**, rewarding early participants for stress-testing the system and identifying potential vulnerabilities. These efforts will help refine the network and build trust among users and contributors.
 
@@ -39,3 +41,14 @@ AI is the most powerful technology of our generation, with the potential to solv
 By building a decentralized, permissionless network, we are empowering individuals, developers, and organizations to contribute to and benefit from the AI revolution. Function Network is more than a platform—it is a movement to reshape the future of machine intelligence, ensuring that it serves the many, not the few.
 
 Join us in this journey to create a world where intelligence is not a service but a fundamental right. Together, we can build an AI ecosystem that is accessible, equitable, and unstoppable.
+1. **Decentralizing AI Governance**
+   * Give **FUNC holders control** over network parameters like **epoch length, staking requirements, and rewards**.
+   * Launch a **transparent proposal system** for **open community decision-making**.
+2. **AI as a Public Utility**
+   * Build a **decentralized AI model marketplace**, where developers can **upload, share, and monetize their AI models**.
+   * Create **functioning inference APIs** that allow **seamless AI access without central intermediaries**.
+3. **Privacy-Preserving A**
+   * Introduce ZK, FHE, and latest privacy research **for AI inference**, allowing **users to run models on private data without exposing it**.
+4. **Self-Regulating AI Network**
+   * Implement **dynamic incentive models** where rewards **automatically adjust** based on **demand, compute availability, and participation**.
+   * Introduce **autonomous AI model selection**, where the **community decides which models are prioritized**.

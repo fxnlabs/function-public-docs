@@ -1,28 +1,33 @@
-# 🚀 Function Network
+## Background  
+AI today sits behind closed doors: proprietary models, scarce compute, and centralized control leave creators uncompensated and users locked in. **Function Network** tears down these walls with a blockchain-powered protocol that makes inference **open, decentralized, and permissionless**, so anyone can contribute, anyone can consume, and no single entity can censor or gate access.
 
-Function Network is a **decentralized inference protocol** designed to power AI inference workloads. Function Network **democratizes AI compute** by enabling anyone with computational resources to participate. Gateways facilitate seamless interaction for users, while providers execute computational tasks defined by cutting-edge AI models.
+## The Problem: Open-Source AI Isn’t Accessible for All  
+- **No Revenue for Creators**  
+  Popular models (e.g. Llama, Stable Diffusion) rack up millions of downloads—and creators see \$0 in royalties or usage fees.  
+- **Broken Hosting Economics**  
+  Running inference at scale demands complex infrastructure or expensive cloud GPUs; individual creators and smaller teams face prohibitive costs and operational overhead.  
+- **Lack of Onchain Incentives**  
+  Without transparent, automated payment mechanisms, model discovery, improvement, and sustained maintenance fall by the wayside.
 
-At its core, Function Network utilizes **FUNC**, a blockchain-based token, to enable staking, governance, and reward distribution, ensuring efficiency and trust within the system. By connecting compute providers, gateways, and AI models, the network creates a **scalable, transparent, and incentive-driven ecosystem.**
+## Our Solution: Democratize AI with Function Network  
+1. **Model Marketplace**  
+   A unified, on-chain registry where creators publish model metadata, version history and performance benchmarks.  
+   Community ratings and usage statistics surface the best models and drive quality improvements.  
+2. **Sharded Inference**  
+   Break large inference jobs into parallel shards distributed across any GPU provider (from RTX 30-series to datacenter GPUs).  
+   Dynamic load-balancing and redundancy guarantee low latency, high throughput, and resilient uptime.  
+3. **Managed Infrastructure & SLAs**  
+   End-to-end orchestration, monitoring, and failover are enforced by smart contracts.  
+   Providers commit SLAs on-chain: missed targets trigger automated penalties and re-allocation.  
+4. **On-Chain Monetization**  
+   Usage fees and royalties are settled instantly in FUNC tokens.  
+   Fine-grained payout rules let creators set per-model or per-endpoint rates, while providers earn proportional to compute delivered.
 
-<!-- TODO: more bragging -->
+## Incentive Alignment: How the Network Works  
+Every protocol action is powered by **FUNC**:  
+- **Developers** deposit FUNC to reserve inference capacity and pay per request.  
+- **Compute Providers** stake FUNC to signal reliability, host models, and collect fees for each inference shard served.  
+- **Model Creators** receive an onchain royalty split every time their model is invoked, turning downloads into recurring income.  
 
----
-
-## 📖 User Guides
-
-🔹 **[Developers](/function-network/using-function-network/developers.md)** – Build and deploy AI-powered applications.  
-🔹 **[Inference Users](/function-network/using-function-network/inference.md)** – Run decentralized AI inference seamlessly.  
-🔹 **[Compute Providers](/function-network/using-function-network/providers.md)** – Contribute compute power and earn rewards.
-
----
-
-## 🛠 Featured Tools
-
-🔹 **[Developer Platform](https://platform.function.network)** – APIs and SDKs for seamless AI integration.  
-🔹 **[Chat App](https://chat.function.network)** – Try Function-powered AI chat today.
-
----
-
-## ℹ️ About Function
-
-🔹 **[Learn More](/function-network/overview/learn-more.md)** – Explore the Function Network ecosystem.
+## The Function Flywheel  
+![Function Flywheel](image.png)  
