@@ -12,4 +12,4 @@ Function Network is a **decentralized AI infrastructure** where developers can c
 
 By integrating with Function Network, you help shape the **future of decentralized AI** while gaining access to points.
 
-🔗 **Get Started:** [Function Network Developer Portal](https://platform.function.network/)
+🔗 **Get Started:** [Function Router](https://platform.fxnrouter.com/)

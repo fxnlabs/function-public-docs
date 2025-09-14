@@ -36,7 +36,7 @@
 * [FAQ](function-network/faq/FAQ.md)
 * [Glossary of Terms](function-network/glossary/glossary-of-terms.md)
 
-## Developer Platform
+## Function Router
 
 * [Overview](developer-platform/README.md)
 * [Service Descriptions](developer-platform/service-descriptions.md)

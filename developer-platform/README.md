@@ -4,7 +4,7 @@ description: One stop shop all your AI development needs
 
 # Overview
 
-Function Developer Platform is our premier gateway exposing the following services to consumers via gRPC and HTTP-JSON (OpenAI compatiable) APIs:
+Function Router is our premier gateway exposing the following services to consumers via gRPC and HTTP-JSON (OpenAI compatiable) APIs:
 
 * Chat Completion
 * Code Completion
