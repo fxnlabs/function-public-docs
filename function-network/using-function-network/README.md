@@ -17,7 +17,7 @@ Access **powerful AI models** on a decentralized network, ensuring **scalability
 Integrate **Function-powered AI** into your applications and dApps.
 
 📖 [**Docs**](broken-reference) – Explore APIs, SDKs, and integration guides.\
-🔗 [**Developer Platform**](https://platform.function.network/) – Start building with Function.
+🔗 [**Function Router**](https://platform.fxnrouter.com/) – Start building with Function.
 
 ***
 

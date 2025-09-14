@@ -29,7 +29,7 @@ pip install grpclib
 ```python
 api_key = 'MY_FXN_API_KEY'
 
-channel = Channel('api.function.network')
+channel = Channel('api.fxnrouter.com')
 client = APIGatewayServiceStub(channel, metadata=[('authorization', f'Bearer {api_key}')])
 ```
 

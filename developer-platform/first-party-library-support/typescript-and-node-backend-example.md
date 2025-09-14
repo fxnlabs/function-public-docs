@@ -34,7 +34,7 @@ function createAPIClient() {
     // Creates the transport
     const transport = createConnectTransport({
         httpVersion: "1.1",
-        baseUrl: "api.function.network",
+        baseUrl: "api.fxnrouter.com",
         interceptors: [apiKeyInterceptor]
     });
 

@@ -11,20 +11,3 @@ Function Network enables developers to integrate decentralized AI inference into
 - **Contribute to Ecosystem Growth**: Drive the adoption of decentralized AI by integrating Function Network into real-world applications, fostering collaboration, and promoting a more accessible and transparent AI ecosystem.
 
 By actively participating, developers not only add decentralized AI capabilities to their projects but also contribute to the broader vision of decentralized AI, earning points as a reward for their contributions.
-
-## Why Develop with Function Network?
-
-Function Network offers unique advantages for developers looking to build next-generation AI solutions:
-
-- **Scalability**: Leverage a decentralized infrastructure designed to handle high computational demands, ensuring your applications remain performant as they grow.
-- **Security**: Benefit from the inherent security of decentralized systems, protecting your integrations and user data from centralized vulnerabilities.
-- **Flexibility**: Access a modular and extensible platform that supports a wide range of AI use cases, from machine learning models to generative AI applications.
-- **Community-Driven Innovation**: Join a global community of developers collaborating to push the boundaries of AI technology, with opportunities to share and learn from others.
-
-## Join the Future of Decentralized AI
-
-By integrating with Function Network, you play a pivotal role in shaping the future of decentralized AI while earning points that reflect your contributions. These points may unlock additional benefits, such as access to exclusive tools, resources, or recognition within the Function Network community.
-
-Function Network is more than a platform - it’s a movement to democratize AI and empower developers worldwide. By building on Function Network, you’re helping create a decentralized, transparent, and innovative AI ecosystem while earning rewards for your contributions.
-
-**Get Started Today**: Visit the [Function Network Developer Portal](https://platform.function.network/) to begin your journey.
