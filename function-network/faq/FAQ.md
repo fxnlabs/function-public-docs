@@ -1,109 +1,148 @@
-# FAQ
+# Function Network FAQ
 
-### **General Questions**
+This FAQ provides answers to common questions about the Function Network, covering general information, provider-specific details, gateway operations, and future incentives like points and airdrops. 
 
-1.  **What is the Function Network?**
+## General Questions
 
-    * A decentralized system for AI inference, connecting gateways to AI providers using FUNC tokens for staking and rewards.
+1. **What is the Function Network?**
 
-    **➡️ So what? Why does this matter?**
+   The Function Network is a decentralized platform for AI inference, enabling seamless connections between developers and AI compute providers. It leverages FUNC tokens for staking, rewards, and potentially governance, ensuring a trustless and scalable ecosystem for AI workloads.
 
-    * Function Network removes reliance on centralized AI providers, making AI inference more **accessible, censorship-resistant, and cost-effective**.
-2.  **What are FUNC tokens used for?**
+   **Why is this important?**
 
-    * FUNC tokens are used for **staking by providers and gateways**, distributed as rewards, and may be used for governance in the future.
+   By decentralizing AI inference, the Function Network reduces dependency on centralized providers, offering greater accessibility, censorship resistance, and cost efficiency. This empowers developers, businesses, and individuals to access AI compute resources securely and affordably.
 
-    **➡️ How does this benefit me?**
+2. **What are FUNC tokens used for?**
 
-    * Whether you're an **AI developer, compute provider, or just using the network**, FUNC rewards participation. Early adopters may also benefit from **airdrops, staking incentives, and governance control.**
-3.  **What is an epoch, and how does it work?**
+   FUNC tokens are the native currency of the Function Network, used for staking by providers and gateways, distributing rewards for compute contributions, and potentially enabling governance participation in the future.
 
-    * An epoch is a **fixed time period** (defined by blocks) where **staking, rewards, and network updates** are synchronized.
+   **How does this benefit me?**
 
-    **➡️ Why should I care?**
+   Whether you're an AI developer, model creator, compute provider, or end-user, FUNC tokens incentivize participation. Early adopters may gain additional benefits through staking rewards, potential airdrops, or future governance influence, fostering a vibrant and rewarding ecosystem.
 
-    * Knowing epoch cycles is crucial if you're **staking, providing compute, or expecting rewards,** it determines **when and how often payouts occur**.
-4.  **How are rewards calculated?**
+3. **Will there be points or airdrops for early users before onchain incentives begin?**
 
-    * Rewards are based on **shards (units of work) contributed by providers within an epoch**, distributed **proportionally from the epoch’s reward pool**.
+   Yes, early participants engaging in inference requests, compute provision, or FUNC staking may earn points. These points could translate into future airdrops, staking bonuses, or governance influence, with details announced via official channels.
 
-    **➡️ Can I maximize my rewards?**
+   **How can I participate?**
 
-    * Yes! Providers with **higher uptime, efficient nodes, and well-optimized compute setups** will earn **more rewards per epoch**.
-5. **What is the significance of `minEpochsLocked`?**
-   * This is the **minimum number of epochs FUNC tokens must remain staked** before they can be unstaked.
-6. **Will there be points or airdrops for early users before onchain incentives begin?**
-   * Yes! Users who participate in **inference requests, providing compute, or staking FUNC** may earn **points** that **could translate to future airdrops, incentives, or governance influence**. Details to come.
+   Engage early by using the network for AI inference, staking FUNC tokens, or providing compute resources. Active participation increases your eligibility for points and potential future rewards.
 
-***
+4. **How does the Function Network ensure security and reliability?**
 
-### **Provider Questions**
+   The network employs decentralized consensus mechanisms, staking requirements, and penalties for malicious behavior to maintain security. Providers and gateways are incentivized to uphold high standards, ensuring reliable AI Inference services.
 
-1.  **What is required to register as a provider?**
+   **Why does this matter to me?**
 
-    * Register with **metadata (typically the node’s URL), stake FUNC tokens**, and ensure **whitelist approval**.
+   A secure and reliable network protects users from disruptions and ensures consistent access to AI compute resources, fostering trust and encouraging widespread adoption.
 
-    **➡️ Why should I become a provider?**
+---
 
-    * If you have idle **GPUs or compute power**, you can **earn rewards** by contributing to AI inference workloads.
-2.  **What happens if I don’t claim my rewards?**
+## Provider Questions
 
-    * Rewards remain **claimable indefinitely** but are subject to an epoch delay before becoming available.
+1. **What is required to register as a provider?**
 
-    **➡️ Can I lose unclaimed rewards?**
+   To become a provider, you must register with metadata (typically your node’s URL), stake the required amount of FUNC tokens, and obtain whitelist approval from the network.
 
-    * No, rewards won’t disappear, but **claiming them earlier allows for faster reinvestment or staking.**
-3.  **What is the penalty for being jailed?**
+   **Why should I become a provider?**
 
-    * Jailed providers **cannot participate in staking or claim rewards** during the jail period.
+   Providers with idle GPUs or compute resources can earn rewards by contributing to AI inference workloads. This creates a revenue stream while supporting the decentralized AI ecosystem.
 
-    **➡️ How do I avoid this?**
+2. **What happens if I don’t claim my rewards?**
 
-    * Maintain **high availability, correct node configurations, and avoid malicious behavior.**
-4. **What does the metadata of a provider represent?**
-   * Metadata usually contains **the URL where the provider’s node can be accessed** for inference requests.
+   Unclaimed rewards remain available indefinitely but are subject to an epoch-based delay before they can be accessed.
 
-***
+   **Can I lose unclaimed rewards?**
 
-### **Gateway Questions**
+   No, unclaimed rewards are safe and won’t expire. However, claiming them promptly allows for reinvestment or additional staking to maximize your network participation.
 
-1.  **How do gateways interact with providers?**
+3. **What is the penalty for being jailed?**
 
-    * Gateways **aggregate client requests and route them** to providers based on **availability and compute needs**.
+   Jailed providers are temporarily barred from staking or claiming rewards during the jail period, which is triggered by network rule violations or insufficient performance.
 
-    **➡️ Why does this matter?**
+   **How can I avoid being jailed?**
 
-    * Gateways ensure **efficient AI inference distribution**, optimizing **latency and cost** across multiple providers.
-2.  **Can gateways unstake immediately?**
+   Ensure high node availability, maintain correct configurations, and adhere to network protocols. Avoiding malicious or unreliable behavior is critical to staying active and earning rewards.
 
-    * No, gateways must **initiate a wind-down process**, followed by a **staking delay** before unstaking is possible.
+4. **What does provider metadata represent?**
 
-    **➡️ What’s the risk of unstaking?**
+   Provider metadata typically includes the URL where the provider’s node can be accessed for inference requests, along with other relevant details like supported models or compute capabilities.
 
-    * There are **burn 'discount' incentives** for being staked longer. Unstaking will reset your current discount tier.
+   **Why is metadata important?**
+
+   Accurate metadata ensures gateways can efficiently route requests to your node, maximizing your compute utilization and reward potential.
+
+5. **What types of compute resources are most valuable to the network?**
+
+   High-performance GPUs, reliable network connectivity, and optimized software stacks are highly valued, as they enable efficient and scalable AI inference.
+
+   **How can I optimize my setup?**
+
+   Invest in robust hardware, maintain low-latency connections, and regularly update your node’s software to align with network requirements, ensuring competitive performance and higher rewards.
+
+3. **What is an epoch, and how does it function?**
+
+   An epoch is a fixed time period, measured in blocks, during which staking, reward distribution, and network updates are synchronized. Epochs ensure consistent and predictable operations across the network. Understanding epochs is essential for participants involved in staking, providing compute, or receiving rewards. Epoch cycles determine the timing of reward payouts and network updates, helping users plan their participation effectively.
+
+5. **How are rewards calculated and distributed?**
+
+   Rewards are calculated based on the shards (units of computational work) contributed by providers during an epoch. These rewards are distributed proportionally from the epoch’s reward pool, incentivizing active participation.
+
+   **How can I maximize my rewards?**
+
+   Providers can increase rewards by maintaining high node uptime, optimizing compute efficiency, and ensuring reliable infrastructure. Consistent participation and high-quality service lead to greater reward allocations per epoch.
+
+6. **What is the significance of `minEpochsLocked`?**
+
+   The `minEpochsLocked` parameter specifies the minimum number of epochs that staked FUNC tokens must remain locked before they can be unstaked, ensuring network stability and commitment from participants. Participants should plan their staking duration carefully, as `minEpochsLocked` impacts liquidity. Longer staking periods may offer additional incentives, but users must balance this with their need for token accessibility.
+
+
+---
+
+## Gateway Questions
+
+1. **How do gateways interact with providers?**
+
+   Gateways aggregate client requests for AI inference and route them to suitable providers based on availability, compute capacity, and performance metrics. Gateways optimize the distribution of AI workloads, reducing latency, minimizing costs, and ensuring efficient resource utilization across the network.
+
+2. **Can gateways unstake immediately?**
+
+   No, gateways must initiate a wind-down process and wait through a staking delay period before unstaking their FUNC tokens, ensuring network stability.
+
+   **What are the risks of unstaking?**
+
+   Unstaking resets your current burn discount tier, which may reduce future incentives. Long-term staking often provides better rewards, so plan your strategy accordingly.
+
 3. **What metadata do gateways need?**
-   * Gateways typically store **routing-related metadata**, such as **endpoint URLs and regional availability**.
 
-***
+   Gateway metadata includes routing-related information, such as endpoint URLs, supported regions, and availability details, to facilitate efficient request handling. Accurate metadata ensures gateways can effectively match client requests with providers, improving network performance and user experience.
 
-## **🛠 Additional Questions (Airdrops, Points, and Future Benefits)**
+4. **How can gateways optimize their operations?**
 
-1.  **Will there be points? If so, how do points work, and what are they used for?**
+   Gateways can enhance performance by maintaining robust infrastructure, minimizing latency, and supporting a wide range of providers and regions. Optimized gateways attract more client requests, increasing their influence and potential rewards within the network.
 
-    * Before onchain rewards, Function may institute a points system. Points would represent **engagement and contributions** within the network and **may be redeemable for rewards, governance influence, or airdrops in the future**. Please see our [Terms & Conditions](https://www.function.network/tos.txt) for more details.
+---
 
-    **➡️ How can I earn points?**
+## Additional Questions (Airdrops, Points, and Future Benefits)
 
-    * Using Function Network may make you eligible for points. Engage with **AI inference**, stake FUNC, provide compute power, or **use Function Chat** to qualify.
-2. **What's the difference between Points and rewards?**
+1. **Will there be a points system, and how does it work?**
 
-* Rewards are onchain incentives (in the form of FUNC) for performing actions that benefit Function Network.
-* Points represent **engagement and contributions** but not necessarily onchain rewards. Points **may** make you eligible for future onchain incentives like airdrops.
+   Before onchain rewards are fully implemented, the Function Network may introduce a points system to track user engagement and contributions. Points could be redeemed for future rewards, airdrops, or governance influence.
 
-3.  **When will airdrops be distributed?**
+   **How can I earn points?**
 
-    * If airdrops occur, eligibility criteria and timelines will be posted on our official channels. Please stay tuned to our official channels for details.
+   Participate in AI inference tasks, stake FUNC tokens, provide compute resources, or use Function Chat to qualify for points. Early and active engagement maximizes your point accumulation.
 
-    **➡️ Should I participate now?**
+2. **What is the difference between points and rewards?**
 
-    * Yes! Points programs will be designed to reward early users. **Early adopters have the highest chance** of receiving rewards.
+   Rewards are onchain incentives paid in FUNC tokens for contributions like compute provision or staking. Points, however, are offchain metrics of engagement and may qualify users for future onchain benefits, such as airdrops or governance roles.  Points reward early adopters and active participants, potentially unlocking exclusive benefits as the network grows, giving you a head start in the ecosystem.
+
+3. **When will airdrops be distributed?**
+
+   Airdrop eligibility criteria and distribution timelines will be announced through official Function Network channels. Stay updated to ensure you don’t miss opportunities. Early adopters who engage through inference, staking, or compute provision have the highest likelihood of qualifying for airdrops and other incentives, maximizing their long-term benefits.
+
+4. **How can I stay informed about network updates and opportunities?**
+
+   Follow Function Network’s official channels, including the website, blog, and social media, for the latest announcements on airdrops, points, and network developments. Timely updates ensure you can take advantage of new features, incentives, and governance opportunities, keeping you ahead in the decentralized AI ecosystem.
+
+For further questions or support, contact the Function Network team through our official channels or refer to the [Terms & Conditions](https://www.function.network/tos.txt).
